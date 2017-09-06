@@ -1,6 +1,9 @@
-# Bio1M.github.io
 # http://Bio1M.github.io
 # http://localhost:4000/
+# https://avenue.cllmcmaster.ca/d2l/home/213068
+
+# Announce: 
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=213068&global=0
 
 ######################################################################
 
@@ -20,11 +23,15 @@ include sub.mk
 
 ## Content
 
+# index.md
+
 Sources += $(wildcard *.md) updates.html
 
 ######################################################################
 
 ## Decoration
+
+Sources += ngorongoro.crop.jpg
 
 ngorongoro.jpg: 
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ngorongoro_Crater%2C_Tanzania.jpg"
