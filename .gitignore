@@ -3,6 +3,12 @@ commit.default
 target.mk
 .*.sw*
 
+.sass-cache/
+Gemfile
+Gemfile.lock
+_site/
+ngorongoro.jpg
+
 *.Rout.pdf
 *.html
 
