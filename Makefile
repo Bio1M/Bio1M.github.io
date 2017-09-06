@@ -18,6 +18,15 @@ include sub.mk
 
 ######################################################################
 
+# Jekyll
+
+Sources += _config.yml $(wildcard Gemfile_*)
+
+Sources += _includes/* _layouts/* css/* _sass/*
+
+######################################################################
+
+
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
 
