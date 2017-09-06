@@ -16,6 +16,9 @@ include sub.mk
 
 ## Content
 
+Sources += $(wildcard *.md) updates.html
+
+
 ######################################################################
 
 # Jekyll
