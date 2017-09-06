@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview
+title: Main page
 ---
 
 # Updates (newest at top)
@@ -19,14 +19,17 @@ title: Overview
 
 # Course information
 
+{% comment %} 
 * [Official course outline](outline.html)
 * [Class participation](participation.html)
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
+{% endcomment %} 
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 
 # Course content
 
 * [Introductory unit](intro.html)
+{% comment %} 
 * [Unit 1: Linear population models](linear.html)
 * [Unit 2: Non-linear population models](nonlinear.html)
 * [Unit 3: Structured populations models](structure.html)
@@ -34,6 +37,7 @@ title: Overview
 * [Unit 5: Competition](competition.html)
 * [Unit 6: Exploitation](exploitation.html)
 * [Unit 7: Disease](disease.html)
+{% endcomment %} 
 
 {% comment %} 
 	intro.md
@@ -46,12 +50,12 @@ title: Overview
 	disease.md
 {% endcomment %} 
 
+{% comment %} 
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -60,6 +64,7 @@ midterm1.md
 midterm2.md
 {% endcomment %} 
 
+{% comment %} 
 # Policies
 
 * [Tutorial policy](Tutorials.html)
@@ -71,3 +76,4 @@ midterm2.md
 # Links
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/201446)
 * [Facebook group](https://www.facebook.com/groups/681998368640256/)
+{% endcomment %} 
