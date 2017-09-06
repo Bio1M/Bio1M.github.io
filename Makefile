@@ -17,7 +17,7 @@ target: $(target)
 
 Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
-# include $(ms)/perl.def
+include $(ms)/perl.def
 
 ##################################################################
 
@@ -26,6 +26,20 @@ include sub.mk
 # index.md
 
 Sources += $(wildcard *.md) updates.html
+
+######################################################################
+
+## Posts
+
+# Posts are made from drafts as a side effect of making *.post
+Sources += $(wildcard _posts/*.*)
+Sources += post.pl
+
+%.post: %.md post.pl
+	$(PUSH)
+	$(shell_execute)
+
+announce.post: announce.md
 
 ######################################################################
 

@@ -15,7 +15,9 @@ title: Main page
 	{% endfor %}
 </ul>
 
+{% comment %} 
 # [Older updates](updates.html)
+{% endcomment %} 
 
 # Course information
 
