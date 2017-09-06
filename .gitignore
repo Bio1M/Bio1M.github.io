@@ -9,6 +9,8 @@ Gemfile.lock
 _site/
 ngorongoro.jpg
 
+*.post
+
 *.Rout.pdf
 *.html
 
