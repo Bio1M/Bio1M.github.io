@@ -12,8 +12,7 @@ target: $(target)
 
 ##################################################################
 
-
-Sources = Makefile .gitignore README.md sub.mk LICENSE.md
+Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
 # include $(ms)/perl.def
 
@@ -47,6 +46,10 @@ Gemfile:
 
 ######################################################################
 
+Sources += $(wildcard materials/*)
+commit.time: materials
+materials:
+	mkdir $@
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
