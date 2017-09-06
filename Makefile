@@ -1,4 +1,8 @@
 # Bio1M.github.io
+# http://Bio1M.github.io
+
+######################################################################
+
 ### Hooks for the editor to set the default target
 current: target
 target = Makefile
