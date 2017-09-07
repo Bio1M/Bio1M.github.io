@@ -3,6 +3,8 @@ layout: page
 title: Main page
 ---
 
+_This page has links to all announcements and resources related to material controlled by Dushoff, available even if you have trouble with Avenue access._
+
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
