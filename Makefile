@@ -42,6 +42,7 @@ Sources += post.pl
 
 announce.post: announce.md
 facebook.post: facebook.md
+missing.post: missing.md
 
 ######################################################################
 
