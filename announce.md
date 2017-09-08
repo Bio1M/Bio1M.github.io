@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook group
+title: Evolution by natural selection
 ---
 
-We have [a Facebook group](https://www.facebook.com/groups/103090283767508/) now.
+[Notes are available](/materials/ns.handouts.pdf) for the [unit on Evolution by natural selection](/ns.html). Please print them out and bring them to class on Friday.
