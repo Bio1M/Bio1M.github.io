@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes
+title: Facebook group
 ---
 
-[Notes are available](/materials/intro.handouts.pdf) for the [introductory unit](/intro.html)
+We have [a Facebook group](https://www.facebook.com/groups/103090283767508/) now.
