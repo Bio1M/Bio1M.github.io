@@ -3,6 +3,8 @@ layout: page
 title: Main page
 ---
 
+_This page has links to all announcements and resources related to material controlled by Dushoff, available even if you have trouble with Avenue access._
+
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
@@ -31,25 +33,10 @@ title: Main page
 # Course content
 
 * [Introductory unit](intro.html)
-{% comment %} 
-* [Unit 1: Linear population models](linear.html)
-* [Unit 2: Non-linear population models](nonlinear.html)
-* [Unit 3: Structured populations models](structure.html)
-* [Unit 4: Life history](life_history.html)
-* [Unit 5: Competition](competition.html)
-* [Unit 6: Exploitation](exploitation.html)
-* [Unit 7: Disease](disease.html)
-{% endcomment %} 
-
+* [Evolution by natural selection](ns.html)
 {% comment %} 
 	intro.md
-	linear.md
-	nonlinear.md
-	structure.md
-	life_history.md
-	competition.md
-	exploitation.md
-	disease.md
+	ns.md
 {% endcomment %} 
 
 {% comment %} 
