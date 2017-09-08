@@ -41,6 +41,7 @@ Sources += post.pl
 	$(shell_execute)
 
 announce.post: announce.md
+facebook.post: facebook.md
 
 ######################################################################
 
