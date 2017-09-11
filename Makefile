@@ -1,7 +1,7 @@
 # http://Bio1M.github.io
 
-# http://localhost:4000/
-# http://localhost:4000/announce.html
+# http://localhost:4215/
+# http://localhost:4215/announce.html
 
 # https://avenue.cllmcmaster.ca/d2l/home/213068
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=213068&global=0
@@ -42,7 +42,6 @@ Sources += post.pl
 
 announce.post: announce.md
 facebook.post: facebook.md
-missing.post: missing.md
 
 ######################################################################
 

@@ -4,7 +4,13 @@ title: Introductory unit
 ---
 
 * [Handouts (please print and bring to class)](/materials/intro.handouts.pdf)
-  * [Large format](/materials/intro.large.pdf)
-{% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
+
+{% comment %} 
+  * [Large format](/materials/intro.large.pdf)
 {% endcomment %} 
+
+## Additional
+
+* [A recent giraffe fight video](https://www.youtube.com/watch?v=KQLPL1qRhn8)
+
