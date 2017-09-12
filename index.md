@@ -17,8 +17,8 @@ _This page has links to all announcements and resources related to material cont
 	{% endfor %}
 </ul>
 
-{% comment %} 
 # [Older updates](updates.html)
+{% comment %} 
 {% endcomment %} 
 
 # Course information
@@ -28,7 +28,10 @@ _This page has links to all announcements and resources related to material cont
 * [Class participation](participation.html)
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 {% endcomment %} 
+
+* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/213068)
 * [Dushoff office hours](/office.md)
+* [Facebook group](https://www.facebook.com/groups/103090283767508/)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 
 # Course content
