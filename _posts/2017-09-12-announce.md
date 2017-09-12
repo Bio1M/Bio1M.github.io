@@ -3,7 +3,7 @@ layout: post
 title: Public lecture
 ---
 
-This event tomorrow (Wed), will probably be a lot of fun. Lenski used to be a (distant) collaborator with Dushoff.
+[This event tomorrow (Wed)](/materials/sparkuhl.png), will probably be a lot of fun. Lenski used to be a (distant) collaborator with Dushoff.
 
 Public Talk: "Time Travel in Experimental Evolution”
 
