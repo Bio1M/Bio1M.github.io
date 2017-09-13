@@ -3,7 +3,7 @@ layout: post
 title: Notes for Evolutionary processes unit
 ---
 
-[Notes are available](/materials/processes.handouts.pdf) for [the Evolutionary processes unit](/processes.html). It is recommended that you _don't_ print them, but just use them for reference.
+[Notes are available](/materials/processes.handouts.pdf) for [the Evolutionary processes unit](/processes.html). Please print them and bring them to class on Thursday.
 
 {% comment %} 
 {% endcomment %} 
