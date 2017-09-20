@@ -37,10 +37,12 @@ _This page has links to all announcements and resources related to material cont
 * [Introductory unit](intro.html)
 * [Evolution by natural selection](ns.html)
 * [Evolutionary processes](processes.html)
+* [Speciation](speciation.html)
 {% comment %} 
 	intro.md
 	ns.md
 	processes.md
+	speciation.md
 {% endcomment %} 
 
 {% comment %} 
