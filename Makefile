@@ -40,7 +40,6 @@ Sources += post.pl
 	$(shell_execute)
 
 announce.post: announce.md
-notes.post: notes.md
 
 ######################################################################
 
