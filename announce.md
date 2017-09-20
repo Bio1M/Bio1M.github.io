@@ -4,6 +4,13 @@ title: Speciation notes
 slug: Speciation
 ---
 
+{% comment %} 
+####################
+Use slug: to manage post identity and order.
+####################
+{% endcomment %} 
+
+
 [Notes are available](/materials/speciation.handouts.pdf) for [the speciation unit](/speciation.html). Please print them and bring them to class on Thursday.
 {% comment %} 
 {% endcomment %} 
