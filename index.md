@@ -27,7 +27,7 @@ _This page has links to all announcements and resources related to material cont
 {% endcomment %} 
 
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/213068)
-* [Dushoff office hours](/office.md)
+* [Dushoff office hours](/office.html)
 * [Facebook group](https://www.facebook.com/groups/103090283767508/)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [Announcements](/announcements.html)
