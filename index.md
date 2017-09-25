@@ -38,11 +38,14 @@ _This page has links to all announcements and resources related to material cont
 * [Evolution by natural selection](ns.html)
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
+* [Phylogeny and the history of life](phylogeny.html)
+
 {% comment %} 
 	intro.md
 	ns.md
 	processes.md
 	speciation.md
+	phylogeny.md
 {% endcomment %} 
 
 {% comment %} 
