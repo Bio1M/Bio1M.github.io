@@ -4,7 +4,13 @@ title: Evolution by natural selection
 ---
 
 * [Handouts (please print and bring to class)](/materials/ns.handouts.pdf)
+  * [Complete notes (for reference only, no need to print)](/materials/ns.complete.pdf)
 {% comment %} 
-  * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
   * [Large format](/materials/intro.large.pdf)
 {% endcomment %} 
+
+
+## Additional resources
+
+* [Wikipedia on the blind spot](https://en.wikipedia.org/wiki/Blind_spot_(vision))
+

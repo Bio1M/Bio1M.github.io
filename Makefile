@@ -1,7 +1,6 @@
 # http://Bio1M.github.io
-
-# http://localhost:4000/
-# http://localhost:4000/announce.html
+# http://localhost:4215/
+# http://localhost:4215/announce.html
 
 # https://avenue.cllmcmaster.ca/d2l/home/213068
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=213068&global=0
@@ -63,8 +62,9 @@ Sources += _config.yml $(wildcard Gemfile_*)
 Sources += _includes/* _layouts/* css/* _sass/*
 
 Gemfile:
-	/bin/ln -s Gemfile_orig $@
+	/bin/ln -s Gemfile_sb $@
 # Gemfile_sb
+# Gemfile_orig
 
 ######################################################################
 

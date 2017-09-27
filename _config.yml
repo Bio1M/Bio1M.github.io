@@ -3,6 +3,7 @@ title: Bio 1M, Dushoff resources
 email: dushoff@mcmaster.ca
 baseurl: "" 
 url: "http://Bio1M.github.io" # the base hostname & protocol for your site
+port: 4215
 twitter_username: jd_mathbio
 
 # Build settings
