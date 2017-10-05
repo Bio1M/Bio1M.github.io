@@ -50,12 +50,15 @@ _This page has links to all announcements and resources related to material cont
 	apes.md
 {% endcomment %} 
 
+# Tests 
+
+* [Practice questions](practice.html)
 {% comment %} 
-# Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
-* [Final exam](final.html)
+* [Final exam](final.html) 
+practice.md
 {% endcomment %} 
 
 {% comment %} 

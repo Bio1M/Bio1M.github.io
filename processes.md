@@ -10,8 +10,11 @@ title: Evolutionary processes
   * [Large format](/materials/intro.large.pdf)
 {% endcomment %} 
 
-{% comment %} 
 ## Additional resources
+
+* [Practice questions](process_ques.html)
+
+{% comment %} 
 {% endcomment %} 
 
 

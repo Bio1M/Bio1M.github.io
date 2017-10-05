@@ -8,8 +8,10 @@ title: Speciation
 {% comment %} 
 {% endcomment %} 
 
-{% comment %} 
 ## Additional resources
+* [Practice questions](speciation_ques.html)
+
+{% comment %} 
 {% endcomment %} 
 
 
