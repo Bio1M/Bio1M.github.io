@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practice questiosn
+title: Practice questions
 ---
 
 * [Introductory unit](intro_ques.html)
