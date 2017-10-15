@@ -9,8 +9,11 @@ title: The evolution of apes
 {% endcomment %} 
 
 
-{% comment %} 
 ## Additional resources
+
+* [Practice questions](ape_ques.html)
+{% comment %} 
+ape_ques.md
 {% endcomment %} 
 
 

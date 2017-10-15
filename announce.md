@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Dushoff office hours
-slug: Dushoff office hours
+title: More practice questions
+slug: 1_Questions
 ---
 
-Reminder: [Dushoff has regular office hours](/office.html).
-
-* On break week, Friday office hours are cancelled. Wednesday office hours will be held as normal.
+* [Practice questions](practice.html) are now available for [the phylogeny unit](phylogeny.html) and [the apes unit](apes.html).

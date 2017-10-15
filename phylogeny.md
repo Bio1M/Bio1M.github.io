@@ -10,6 +10,12 @@ title: Phylogeny and the history of life
 
 ## Additional resources
 
+* [Practice questions](phylo_ques.html)
+{% comment %} 
+phylo_ques.md
+phylo_ans.md
+{% endcomment %} 
+
 * [More info about the bee who was fossilized with orchid pollen](http://www.nature.com/news/2007/070829/full/news070827-4.html)
 
 [![Fossil bee carrying pollen](materials/bee.jpg)](http://www.nature.com/news/2007/070829/full/news070827-4.html)
