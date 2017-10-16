@@ -48,9 +48,9 @@ announce.post: announce.md
 
 answers = $(wildcard *_ans.md)
 questions = $(answers:_ans.md=_ques.md)
-question: $(questions)
+questions: $(questions)
 
-phylo_ques.md: phylo_ans.md key.pl
+intro_ques.md: intro_ans.md key.pl
 %_ques.md: %_ans.md key.pl
 	$(PUSH)
 

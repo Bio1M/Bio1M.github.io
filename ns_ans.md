@@ -7,7 +7,7 @@ MC. Researchers find that on average identical twins (who share all of their gen
 
 A. There is no genetic variation in height
 
-B. There is strong genetic variation in height
+* B. There is strong genetic variation in height
 
 C. There is no environmental variation in height
 
@@ -20,7 +20,7 @@ MC.  _Claytonia virginica_ is a woodland spring herb with flowers that vary from
 
 A. The percentage of pink flowers should increase over time.
 
-B. The percentage of white flowers should increase over time.
+* B. The percentage of white flowers should increase over time.
 
 C. The distribution of flower colors should not change.
 
@@ -30,7 +30,7 @@ MC.  Which of the following is an example of acclimation?
 
 A. Some animals' hemoglobin enzymes bind oxygen better than others' do.
 
-B. Some animals grow thicker coats when exposed to low temperatures.
+* B. Some animals grow thicker coats when exposed to low temperatures.
 
 C. Some bacteria can use the energy from sunlight to make sugars.
 
@@ -45,7 +45,7 @@ A. Parasites are lower organisms, and this is why they have simple morphologies.
 
 B. Parasites do not live long enough to inherit acquired characteristics.
 
-C. Simple morphologies have been naturally selected for in most parasites.
+* C. Simple morphologies have been naturally selected for in most parasites.
 
 D. Parasites have not yet had time to progress, because they evolved recently.
 
