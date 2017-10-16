@@ -58,14 +58,14 @@ B. Moths are the best pollinators for datura flowers, but bees are the best poll
 
 C. Some lemmings run into the sea when overgrazing threatens the species.  
 
-D. Algal genotypes that can grow fast in nitrogen-limited environments are easier for predators to digest. 
+* D. Algal genotypes that can grow fast in nitrogen-limited environments are easier for predators to digest. 
 
 
 MC. You observe that in a certain population of birds individuals with sharper beaks survive better and reproduce more than individuals with less sharp beaks.  You therefore embark on a study to see if beak shape is evolving in this population.  If you later find that beak shape does not change over many generations, which of the following would be a reasonable conclusion?
 
 A. There is no variation in beak shape in this population.
 
-B. Variation in beak shape in this population is not heritable.
+* B. Variation in beak shape in this population is not heritable.
 
 C. There is no differential reproductive success in this population.
 
@@ -80,8 +80,7 @@ A. The gazelles are male gazelles trying to show females that they have good gen
 
 B. The gazelles want to show the predator how fast and athletic they are, so that the predator will give up the chase and the gazelle can get back to eating
 
-C. The gazelles want to warn the rest of the herd of the presence of predators, for the good of the species
+* C. The gazelles want to warn the rest of the herd of the presence of predators, for the good of the species
 
 D. The gazelles want to see if there are any other predators hiding nearby
-
 

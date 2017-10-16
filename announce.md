@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Dushoff has no idea
-slug: 2_Ideas
+slug: 3_Answers
 ---
 
-* I have no idea why the notes ask you to look at pp. 251-267. You might want to look at 218-220 instead.  My apologies for confusion.
+* Some of the [practice questions](/practice.html) now have solutions. Working on the rest.
+
