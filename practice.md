@@ -7,8 +7,7 @@ title: Practice questions
 * [Evolution by natural selection](ns_ques.html)
 * [Evolutionary processes](process_ques.html)
 * [Speciation](speciation_ques.html)
+* [Phylogeny and the history of life](phylo_ques.html)
+* [The evolution of apes](ape_ques.html)
 {% comment %} 
-* [Phylogeny and the history of life](phylogeny_ques.html)
-* [The evolution of apes](apes_ques.html)
 {% endcomment %} 
-

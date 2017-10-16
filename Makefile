@@ -1,6 +1,6 @@
-# http://Bio1M.github.io
 # http://localhost:4215/
 # http://localhost:4215/announce.html
+# http://Bio1M.github.io
 
 # https://avenue.cllmcmaster.ca/d2l/home/213068
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=213068&global=0
@@ -17,7 +17,7 @@ target: $(target)
 
 Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
-include $(ms)/perl.def
+-include $(ms)/perl.def
 
 ##################################################################
 
@@ -33,13 +33,26 @@ Sources += $(wildcard *.md) updates.html
 
 # Posts are made from drafts as a side effect of making *.post
 Sources += $(wildcard _posts/*.*)
-Sources += post.pl
+Sources += post.pl key.pl
 
 %.post: %.md post.pl
 	$(PUSH)
 	$(shell_execute)
 
 announce.post: announce.md
+
+######################################################################
+
+## Text questions and keys
+## This is probably stupid; move to pdf once things are sorted
+
+answers = $(wildcard *_ans.md)
+questions = $(answers:_ans.md=_ques.md)
+question: $(questions)
+
+phylo_ques.md: phylo_ans.md key.pl
+%_ques.md: %_ans.md key.pl
+	$(PUSH)
 
 ######################################################################
 
