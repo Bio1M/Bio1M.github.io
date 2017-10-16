@@ -91,7 +91,7 @@ B. When the populations would otherwise fuse over time
 
 C. When one population has greater mating success than the other
 
-* D. When hybrids have lower fitness than either parent population
+* D. When hybrids have lower fitness when either parent population
 
 E. Under any of the above conditions
 

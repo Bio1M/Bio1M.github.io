@@ -84,4 +84,3 @@ C. The gazelles want to warn the rest of the herd of the presence of predators, 
 
 D. The gazelles want to see if there are any other predators hiding nearby
 
-

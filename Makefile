@@ -54,7 +54,7 @@ questions: $(questions)
 
 intro_ques.md: intro_ans.md key.pl
 %_ques.md: %_ans.md key.pl
-	$(PUSHRO)
+	$(PUSH)
 
 ######################################################################
 
