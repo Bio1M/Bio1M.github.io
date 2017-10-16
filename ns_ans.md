@@ -18,9 +18,9 @@ E. LeBron James does not have an identical twin
 
 MC.  _Claytonia virginica_ is a woodland spring herb with flowers that vary from white to pale pink to bright pink. The slugs which damage the plants prefer to eat pink-flowering over white-flowering plants.  The bees that pollinate this plant prefer also prefer pink to white flowers, meaning that _Claytonia_ with pink flowers reproduce more effectively, if they survive the slugs.  A researcher observes that the percentage of different flower colors remains stable in the study population from year to year. If the researcher removes all slugs from the study population, what do you expect to happen to the distribution of flower colors in the population over time?
 
-A. The percentage of pink flowers should increase over time.
+* A. The percentage of pink flowers should increase over time.
 
-* B. The percentage of white flowers should increase over time.
+B. The percentage of white flowers should increase over time.
 
 C. The distribution of flower colors should not change.
 
