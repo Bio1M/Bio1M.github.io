@@ -10,10 +10,10 @@ title: Practice questions
 * [Evolutionary processes](process_ques.html)
 	* [Answers](process_ans.html)
 * [Speciation](speciation_ques.html)
-* [Phylogeny and the history of life](phylo_ques.html)
-* [The evolution of apes](ape_ques.html)
-{% comment %} 
 	* [Answers](speciation_ans.html)
+* [Phylogeny and the history of life](phylo_ques.html)
 	* [Answers](phylo_ans.html)
+* [The evolution of apes](ape_ques.html)
 	* [Answers](ape_ans.html)
+{% comment %} 
 {% endcomment %} 
