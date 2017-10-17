@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Corrections
+slug: 1
 ---
 
 {% comment %} 
