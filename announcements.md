@@ -17,7 +17,7 @@ You may not _pass_ a signup sheet, collection box, etc. If you want to hang arou
 * If you object to my rejecting your request, please let me know, but it probably won't affect my opinion.
 * If you object to my _accepting_ somebody else's request, please let me know; it probably _will_ affect my opinion, particularly if you have a clear reason.
 
-_This policy applies to Dushoff's half of the course. This page does not know what Kajiura's announcement policy is._
+_This policy applies to Dushoff's half of the course. This page does not know what Dr. Kajiura's announcement policy is._
 
 _Updated 1 October 2017_
 
