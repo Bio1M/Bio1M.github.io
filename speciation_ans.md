@@ -45,9 +45,9 @@ e.  The largest monophyletic group on a phylogenetic tree.
 
 MC.  A researcher notices that in a certain moth species, some females prefer to lay eggs on domesticated plants like potatoes and tomatoes. Other females prefer to lay eggs on wild plants like Datura. In each case, the offspring grow up feeding on the plants where their mothers laid them.  The moths also tend to mate where they feed, and the researcher finds a genetic basis for preference of certain plants, based on scent, in these moths. Based on the above information, what might be occurring in this moth species?
 
-A. divergence in sympatry
+* A. divergence in sympatry
 
-* B. divergence in allopatry
+B. divergence in allopatry
 
 C. divergence due to vicariance
 
