@@ -12,7 +12,7 @@ Usually the best thing is to ask me to post your announcement here (and to Avenu
 * speak from 26 after to 29 after the hour (finish up as soon as it clicks to 29)
 * If you want to use a slide, you should send it to me as pdf.
 
-You may not _pass_ a signup sheet, collection box, etc. If you want to hang around (or come back), you can _leave_ something at the far end of the big lab table
+You may not _pass_ a signup sheet, collection box, etc. If you want to hang around (or come back), you can _leave_ something at the far end of the big lab table.
 
 * If you object to my rejecting your request, please let me know, but it probably won't affect my opinion.
 * If you object to my _accepting_ somebody else's request, please let me know; it probably _will_ affect my opinion, particularly if you have a clear reason.
