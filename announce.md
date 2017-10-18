@@ -17,4 +17,3 @@ slug: 1
 [Notes are available](/materials/homo.handouts.pdf) for [the Hominins unit](/homo.html). Please print them and bring them to class on Thursday.
 [Complete notes](/materials/homo.complete.pdf) from [the Evolutionary processes unit](/homo.html) are now available. It is recommended that you _don't_ print them, but just use them for reference.
 {% endcomment %} 
-
