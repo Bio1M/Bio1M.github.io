@@ -17,8 +17,6 @@ _This page has links to all announcements and resources related to material cont
 	{% endfor %}
 </ul>
 
-Frozen
-
 # [Older updates](updates.html)
 {% comment %} 
 {% endcomment %} 
