@@ -40,6 +40,7 @@ _This page has links to all announcements and resources related to material cont
 * [Speciation](speciation.html)
 * [Phylogeny and the history of life](phylogeny.html)
 * [The evolution of apes](apes.html)
+* [The evolution of apes](homo.html)
 
 {% comment %} 
 	intro.md
@@ -48,6 +49,7 @@ _This page has links to all announcements and resources related to material cont
 	speciation.md
 	phylogeny.md
 	apes.md
+	homo.md
 {% endcomment %} 
 
 # Tests 
