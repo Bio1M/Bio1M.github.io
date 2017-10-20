@@ -76,8 +76,8 @@ Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
 
-Gemfile:
-	/bin/ln -s Gemfile_sb $@
+Gemfile: Makefile
+	/bin/ln -fs Gemfile_sb $@
 # Gemfile_sb
 # Gemfile_orig
 
