@@ -88,6 +88,11 @@ commit.time: materials
 materials:
 	mkdir $@
 
+Sources += $(wildcard tests/*)
+commit.time: tests
+tests:
+	mkdir $@
+
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
 

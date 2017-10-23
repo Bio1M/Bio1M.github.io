@@ -55,12 +55,12 @@ _This page has links to all announcements and resources related to material cont
 # Tests 
 
 * [Practice questions](practice.html)
-{% comment %} 
-* [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
+{% comment %} 
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html) 
 practice.md
+midterm1.md
 {% endcomment %} 
 
 {% comment %} 
