@@ -76,10 +76,12 @@ Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
 
-Gemfile: Makefile
-	/bin/ln -fs Gemfile_sb $@
-# Gemfile_sb
-# Gemfile_orig
+Gemfile_sb: /proc/uptime
+	/bin/ln -fs $@ Gemfile
+
+Gemfile_orig:  /proc/uptime
+	/bin/ln -fs $@ Gemfile
+
 
 ######################################################################
 

@@ -64,12 +64,6 @@ midterm1.md
 {% endcomment %} 
 
 {% comment %} 
-assignments.md
-midterm1.md
-midterm2.md
-{% endcomment %} 
-
-{% comment %} 
 # Policies
 
 * [Tutorial policy](Tutorials.html)
