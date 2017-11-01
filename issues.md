@@ -9,9 +9,9 @@ Neanderthals
 Q European humans are descended about 98% from early modern humans, which evolved in Africa, and about 2% from Neanderthal populations that lived in Europe at that time. We might think that sexual competition between males was one of the ways that modern humans displaced Neanderthals, if modern European human populations:
 
 * __shared more mitochondrial DNA than nuclear DNA with Neanderthal populations__
-* shared less mitochondrial DNA than nuclear DNA with Neanderthal populations__
-* showed more sexual dimorphism than African populations__
-* showed less sexual dimorphism than African populations__
+* shared less mitochondrial DNA than nuclear DNA with Neanderthal populations
+* showed more sexual dimorphism than African populations
+* showed less sexual dimorphism than African populations
 
 I kind of think this is a good question, but I judged it _unfair_ because it requires you to know details about DNA inheritance that I did not spell out in the notes. It parallels the warbler example: if modern males were winning sexual competitions, we would expect to see more survival of genes from Neanderthal females. The mitochondrial DNA comes exclusively from females.
 
