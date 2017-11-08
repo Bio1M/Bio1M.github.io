@@ -4,7 +4,7 @@ title: Midterm issues page
 slug: 2_issues
 ---
 
-* I have posted [a discussion of some of the issues arising from the midterm](/issues.html), including the two questions that I judged to be unfair.
+* [Complete notes](/materials/homo.complete.pdf) from [the Hominins unit](/homo.html) are now available. It is recommended that you _don't_ print them, but just use them for reference.
 
 {% comment %} 
 * [Notes are available](/materials/UNAME.handouts.pdf) for [the LNAME unit](/UNAME.html). Please print them and bring them to class on Thursday.
