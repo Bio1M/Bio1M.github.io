@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Midterm issues page
-slug: 2_issues
+title: Office hours
+slug: 1_Office_hours
 ---
 
-* I have posted [a discussion of some of the issues arising from the midterm](/issues.html), including the two questions that I judged to be unfair.
+No Dushoff office hours this week (travelling to Arizona for work). There will be limited [Dushoff office hours](/office.html) for the next few weeks.
 
 {% comment %} 
 * [Notes are available](/materials/UNAME.handouts.pdf) for [the LNAME unit](/UNAME.html). Please print them and bring them to class on Thursday.

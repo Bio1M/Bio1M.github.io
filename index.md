@@ -40,7 +40,7 @@ _This page has links to all announcements and resources related to material cont
 * [Speciation](speciation.html)
 * [Phylogeny and the history of life](phylogeny.html)
 * [The evolution of apes](apes.html)
-* [The evolution of apes](homo.html)
+* [Hominins](homo.html)
 
 {% comment %} 
 	intro.md
@@ -55,18 +55,12 @@ _This page has links to all announcements and resources related to material cont
 # Tests 
 
 * [Practice questions](practice.html)
-{% comment %} 
-* [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
+{% comment %} 
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html) 
 practice.md
-{% endcomment %} 
-
-{% comment %} 
-assignments.md
 midterm1.md
-midterm2.md
 {% endcomment %} 
 
 {% comment %} 

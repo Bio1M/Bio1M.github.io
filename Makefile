@@ -76,16 +76,19 @@ Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
 
-Gemfile:
-	/bin/ln -s Gemfile_sb $@
-# Gemfile_sb
-# Gemfile_orig
+Gemfile_orig.set Gemfile_sb.set: /proc/uptime
+	/bin/ln -fs $(basename $@)  Gemfile
 
 ######################################################################
 
 Sources += $(wildcard materials/*)
 commit.time: materials
 materials:
+	mkdir $@
+
+Sources += $(wildcard tests/*)
+commit.time: tests
+tests:
 	mkdir $@
 
 -include $(ms)/git.mk
