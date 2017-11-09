@@ -65,7 +65,7 @@ Sources += ngorongoro.crop.jpg
 ngorongoro.jpg: 
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ngorongoro_Crater%2C_Tanzania.jpg"
 
-ngorongoro.crop.jpg: ngorongoro.jpg Makefile
+ngorongoro.crop.jpg: ngorongoro.jpg
 	convert -crop 960x240+0+500 $< $@
 
 ######################################################################
