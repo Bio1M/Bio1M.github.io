@@ -4,6 +4,12 @@ title: HHE references
 slug: 1_pages
 ---
 
+TODO:
+
+* Practice questions
+* Facebook queries
+* Question summary
+
 You may remember that I made some mistakes about page numbers from HHE. These should all be corrected in the complete notes for [apes](/materials/apes.complete.pdf) and for [hominins](/materials/homo.complete.pdf), but I've been hearing whispers to the contrary. _Please_ let me know if anything still looks wrong to you.
 
 {% comment %} 
