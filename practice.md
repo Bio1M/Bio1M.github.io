@@ -3,6 +3,8 @@ layout: page
 title: Practice questions
 ---
 
+* [Additional practice for midterm 2](tests/practice2.test.pdf)
+
 * [Introductory unit](intro_ques.html)
 	* [Answers](intro_ans.html)
 * [Evolution by natural selection](ns_ques.html)
@@ -15,5 +17,6 @@ title: Practice questions
 	* [Answers](phylo_ans.html)
 * [The evolution of apes](ape_ques.html)
 	* [Answers](ape_ans.html)
+
 {% comment %} 
 {% endcomment %} 
