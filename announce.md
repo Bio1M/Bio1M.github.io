@@ -4,7 +4,7 @@ title: Midterm 2
 slug: 1_midterm
 ---
 
-The [Dushoff section of Midterm 2](tests/midterm2.key.pdf) is now available for your reference
+The [Dushoff section of Midterm 2](/tests/midterm2.key.pdf) is now available for your reference
 
 {% comment %} 
 * [Notes are available](/materials/UNAME.handouts.pdf) for [the LNAME unit](/UNAME.html). Please print them and bring them to class on Thursday.
