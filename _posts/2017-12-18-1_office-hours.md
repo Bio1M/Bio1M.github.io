@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Midterm 2
-slug: 1_midterm
+title: Final office hours
+slug: 1_office hours
 ---
 
-The [Dushoff section of Midterm 2](/tests/midterm2.key.pdf) is now available for your reference
+* Dushoff's final office hours will be in BSB 201A/E tomorrow (Tue) from 10-11.
+* As a reminder, Himeshi also has office hours this week in 201A:
+	* Monday, 2:00 pm to 3:00 pm
+	* Tuesday 2:00 pm to 3:00 pm
 
 {% comment %} 
 * [Notes are available](/materials/UNAME.handouts.pdf) for [the LNAME unit](/UNAME.html). Please print them and bring them to class on Thursday.
