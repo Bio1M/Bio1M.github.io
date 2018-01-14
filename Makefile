@@ -60,6 +60,7 @@ intro_ques.md: intro_ans.md key.pl
 
 ## Decoration
 
+Ignore += ngorongoro.*.jpg
 Sources += ngorongoro.crop.jpg
 
 ngorongoro.jpg: 
