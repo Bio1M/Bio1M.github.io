@@ -9,6 +9,7 @@
 ######################################################################
 
 ### Hooks for the editor to set the default target
+Ignore += target.mk
 current: target
 target = Makefile
 -include target.mk
@@ -76,6 +77,8 @@ ngorongoro.crop.jpg: ngorongoro.jpg
 Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
+
+## cp -r _config.yml Gemfile_* _includes _layouts css _sass ~/gitroot/labPages ##
 
 Gemfile_orig.set Gemfile_sb.set: /proc/uptime
 	/bin/ln -fs $(basename $@)  Gemfile
