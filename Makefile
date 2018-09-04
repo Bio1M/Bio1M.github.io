@@ -78,8 +78,10 @@ Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
 
+Ignore +=	.sass-cache/ _site/
 ## cp -r _config.yml Gemfile_* _includes _layouts css _sass ~/gitroot/labPages ##
 
+Ignore += Gemfile Gemfile.lock
 Gemfile_orig.set Gemfile_sb.set: /proc/uptime
 	/bin/ln -fs $(basename $@)  Gemfile
 
