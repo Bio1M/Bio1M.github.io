@@ -17,24 +17,25 @@ _This page has links to all announcements and resources related to material cont
 	{% endfor %}
 </ul>
 
-# [Older updates](updates.html)
 {% comment %} 
+# [Older updates](updates.html)
 {% endcomment %} 
 
 # Course information
 
 {% comment %} 
+* [Dushoff office hours](/office.html)
+* [Facebook group](https://www.facebook.com/groups/103090283767508/)
 {% endcomment %} 
 
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/213068)
-* [Dushoff office hours](/office.html)
-* [Facebook group](https://www.facebook.com/groups/103090283767508/)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
-* [Announcements](/announcements.html)
+* [Classroom announcements](/announcements.html)
 
 # Course content
 
 * [Introductory unit](intro.html)
+{% comment %} 
 * [Evolution by natural selection](ns.html)
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
@@ -42,7 +43,6 @@ _This page has links to all announcements and resources related to material cont
 * [The evolution of apes](apes.html)
 * [Hominins](homo.html)
 
-{% comment %} 
 	intro.md
 	ns.md
 	processes.md
@@ -52,11 +52,11 @@ _This page has links to all announcements and resources related to material cont
 	homo.md
 {% endcomment %} 
 
+{% comment %} 
 # Tests 
 
 * [Practice questions](practice.html)
 * [Midterm 1](midterm1.html)
-{% comment %} 
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html) 
 practice.md
