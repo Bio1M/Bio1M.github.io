@@ -37,7 +37,11 @@ Sources += $(wildcard *.md) updates.html
 Sources += $(wildcard _posts/*.*)
 Sources += post.pl key.pl
 
+_posts:
+	$(mkdir)
+
 %.post: %.md post.pl
+	$(MAKE) _posts
 	$(PUSH)
 	$(shell_execute)
 

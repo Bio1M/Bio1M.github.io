@@ -28,7 +28,7 @@ _This page has links to all announcements and resources related to material cont
 * [Facebook group](https://www.facebook.com/groups/103090283767508/)
 {% endcomment %} 
 
-* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/213068)
+* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/251005)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [Classroom announcements](/announcements.html)
 
