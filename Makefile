@@ -40,6 +40,7 @@ Sources += post.pl key.pl
 _posts:
 	$(mkdir)
 
+Ignore += announce.post
 %.post: %.md post.pl
 	$(MAKE) _posts
 	$(PUSH)
