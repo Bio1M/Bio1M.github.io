@@ -75,6 +75,20 @@ ngorongoro.jpg:
 ngorongoro.crop.jpg: ngorongoro.jpg
 	convert -crop 960x240+0+500 $< $@
 
+baobab.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adansonia_grandidieri04.jpg/180px-Adansonia_grandidieri04.jpg"
+
+baobab.crop.jpg: baobab.jpg
+	convert -crop 140x140+20+30 $< $@
+
+Sources += favicon.ico
+Ignore += *.ico baobab.*
+favicon.ico: baobab.crop.jpg
+	convert -resize x16 -gravity center -crop 16x16+0+0 -flatten -colors 256 $< 16.ico
+	convert -resize x32 -gravity center -crop 32x32+0+0 -flatten -colors 256 $< 32.ico
+	convert 16.ico 32.ico $@
+
+
 ######################################################################
 
 # Jekyll
