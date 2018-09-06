@@ -29,13 +29,15 @@ _This page has links to all announcements and resources related to material cont
 
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/251005)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
+* [Course outline](/materials/outline.pdf)
 * [Classroom announcements](/announcements.html)
 
 # Course content
 
+* [Course co-ordinator's introduction](materials/tracey.pdf)
 * [Introductory unit](intro.html)
-{% comment %} 
 * [Evolution by natural selection](ns.html)
+{% comment %} 
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
 * [Phylogeny and the history of life](phylogeny.html)
