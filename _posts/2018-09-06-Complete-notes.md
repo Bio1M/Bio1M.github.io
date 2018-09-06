@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complete notes
-slug: 1_Complete notes
+slug: Complete notes
 ---
 
 [Complete notes](/materials/intro.handouts.pdf) from [the introductory section](/intro.html) are now available. It is recommended that you _don't_ print them, but just use them for reference.

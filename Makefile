@@ -45,6 +45,7 @@ Ignore += 2017_post.list
 	ls 2017_p*/* > 2017_post.list ##
 
 # announce.post: announce.md
+# Title is taken from slug (if it exists) or else from filename (usually announce, so bad)
 Ignore += announce.post
 %.post: %.md post.pl
 	$(MAKE) _posts
