@@ -40,13 +40,16 @@ Sources += post.pl key.pl
 _posts:
 	$(mkdir)
 
+Ignore += 2017_post.list
+2017_post.list:
+	ls 2017_p*/* > 2017_post.list ##
+
+# announce.post: announce.md
 Ignore += announce.post
 %.post: %.md post.pl
 	$(MAKE) _posts
 	$(PUSH)
 	$(shell_execute)
-
-announce.post: announce.md
 
 ######################################################################
 
@@ -87,7 +90,6 @@ favicon.ico: baobab.crop.jpg
 	convert -resize x16 -gravity center -crop 16x16+0+0 -flatten -colors 256 $< 16.ico
 	convert -resize x32 -gravity center -crop 32x32+0+0 -flatten -colors 256 $< 32.ico
 	convert 16.ico 32.ico $@
-
 
 ######################################################################
 
