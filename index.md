@@ -25,7 +25,6 @@ _This page has links to all announcements and resources related to material cont
 
 {% comment %} 
 * [Dushoff office hours](/office.html)
-* [Facebook group](https://www.facebook.com/groups/103090283767508/)
 {% endcomment %} 
 
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/251005)
@@ -74,5 +73,4 @@ midterm1.md
 
 # Links
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/201446)
-* [Facebook group](https://www.facebook.com/groups/681998368640256/)
 {% endcomment %} 
