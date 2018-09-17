@@ -10,6 +10,3 @@ slug: 1_notes
 [Complete notes](/materials/ns.complete.pdf) from [the Natural Selection section](/ns.html) are now available. It is recommended that you _don't_ print them, but just use them for reference.
 {% endcomment %} 
 
-
-
-
