@@ -4,9 +4,8 @@ title: Evolutionary processes
 ---
 
 * [Handouts (please print and bring to class)](/materials/processes.handouts.pdf)
-  * [Complete notes (for reference only, no need to print)](/materials/processes.complete.pdf)
-
 {% comment %} 
+  * [Complete notes (for reference only, no need to print)](/materials/processes.complete.pdf)
   * [Large format](/materials/intro.large.pdf)
 {% endcomment %} 
 
