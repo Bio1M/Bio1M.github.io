@@ -6,6 +6,8 @@
 # https://avenue.cllmcmaster.ca/d2l/home/251005
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=251005&global=0
 
+## make serve ##
+
 ######################################################################
 
 ### Hooks for the editor to set the default target
