@@ -13,5 +13,6 @@ title: Introductory unit
 ## Additional resources
 
 * [Practice questions](intro_ques.html)
+	* [Answers](intro_ans.html)
 
 * [A recent giraffe fight video](https://www.youtube.com/watch?v=KQLPL1qRhn8)
