@@ -59,6 +59,7 @@ Ignore += announce.post
 ## Text questions and keys
 ## This is probably stupid; move to pdf once things are sorted
 ## Notice that _ques.md is _not_ a source file, but _is_ on the repo
+## because jekyll
 
 answers = $(wildcard *_ans.md)
 questions = $(answers:_ans.md=_ques.md)

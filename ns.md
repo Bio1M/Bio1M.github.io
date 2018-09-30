@@ -13,6 +13,7 @@ title: Evolution by natural selection
 ## Additional resources
 
 * [Practice questions](ns_ques.html)
+	* [with answers](ns_ans.html)
 
 * [Wikipedia on the blind spot](https://en.wikipedia.org/wiki/Blind_spot_(vision))
 
