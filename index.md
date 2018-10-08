@@ -53,10 +53,11 @@ _This page has links to all announcements and resources related to material cont
 	homo.md
 {% endcomment %} 
 
-{% comment %} 
 # Tests 
 
 * [Practice questions](practice.html)
+
+{% comment %} 
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html) 
