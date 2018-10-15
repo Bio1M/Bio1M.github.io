@@ -6,7 +6,7 @@ slug: 1_reminder
 
 Reminder: our midterm is on Wednesday.
 
-Alastair posted [midterm details](https://avenue.cllmcmaster.ca/d2l/le/news/251005/363487/view?ou=251005) on 2 October. 
+Alastair posted [midterm details](https://avenue.cllmcmaster.ca/d2l/le/news/251005/363487/view?ou=251005) to Avenue on 2 October. 
 
 {% comment %} 
 [Notes are available](/materials/phylogeny.handouts.pdf) for [the phylogeny unit](/phylogeny.html). Please print them and bring them to class on Tuesday.
