@@ -4,16 +4,15 @@ title: Phylogeny and the history of life
 ---
 
 * [Handouts (please print and bring to class)](/materials/phylogeny.handouts.pdf)
-{% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/phylogeny.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 ## Additional resources
 
 * [Practice questions](phylo_ques.html)
+	* [answers](phylo_ans.html)
 {% comment %} 
-phylo_ques.md
-phylo_ans.md
 {% endcomment %} 
 
 * [Vertebrate phylogeny](http://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/Vertebrata_cladogram2.png)([ucl.ac.uk](http://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/))
