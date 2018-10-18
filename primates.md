@@ -16,3 +16,5 @@ title: Primate evolution
 {% endcomment %} 
 
 * [Eye orbits on wikipedia](https://en.wikipedia.org/wiki/Orbit_(anatomy))
+
+* [A simple slide show about teeth](https://www.slideshare.net/SECBIO/teeth-28068645)
