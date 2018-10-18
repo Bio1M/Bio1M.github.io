@@ -8,6 +8,11 @@ title: Phylogeny and the history of life
 {% comment %} 
 {% endcomment %} 
 
+* [Phenetic supplement handouts](/materials/phenetics.handouts.pdf)
+{% comment %} 
+  * [Complete notes (for reference only, no need to print)](/materials/phenetics.complete.pdf)
+{% endcomment %} 
+
 ## Additional resources
 
 * [Practice questions](phylo_ques.html)
