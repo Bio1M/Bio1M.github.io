@@ -4,11 +4,10 @@ title: Notes
 slug: 2_notes
 ---
 
-
 There are two sets of notes available. Please print and bring to class Tuesday.
 
 * [Extra notes about phenetics (short)](/materials/phenetics.handouts.pdf)
-* [The hominins unit](/materials/hominins.handouts.pdf)
+* [Notes](/materials/hominins.handouts.pdf) for [The hominins unit](/hominins.html)
 
 {% comment %} 
 [Notes are available](/materials/primates.handouts.pdf) for [the primates unit](/primates.html). Please print them and bring them to class on Tuesday.
