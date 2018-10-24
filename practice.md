@@ -9,26 +9,27 @@ title: Practice questions
 {% endcomment %} 
 
 * [2017 midterm 1](2017_materials/midterm1.test.pdf)
+	* [Answers](2017_materials/midterm1.key.pdf)
 
 * [Introductory unit](intro_ques.html)
-{% comment %} 
 	* [Answers](intro_ans.html)
+{% comment %} 
 {% endcomment %} 
 * [Evolution by natural selection](ns_ques.html)
-{% comment %} 
 	* [Answers](ns_ans.html)
+{% comment %} 
 {% endcomment %} 
 * [Evolutionary processes](process_ques.html)
-{% comment %} 
 	* [Answers](process_ans.html)
+{% comment %} 
 {% endcomment %} 
 * [Speciation](speciation_ques.html)
-{% comment %} 
 	* [Answers](speciation_ans.html)
+{% comment %} 
 {% endcomment %} 
 * [Phylogeny and the history of life](phylo_ques.html)
-{% comment %} 
 	* [Answers](phylo_ans.html)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
