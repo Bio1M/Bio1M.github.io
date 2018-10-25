@@ -41,6 +41,7 @@ _This page has links to all announcements and resources related to material cont
 * [Speciation](speciation.html)
 * [Phylogeny and the history of life](phylogeny.html)
 * [Primate evolution](primates.html)
+* [Hominin evolution](hominins.html)
 
 {% comment %} 
 HHE content units

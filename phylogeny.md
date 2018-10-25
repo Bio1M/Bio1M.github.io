@@ -31,9 +31,7 @@ title: Phylogeny and the history of life
 
 [![Fossil bee carrying pollen](materials/bee.jpg)](http://www.nature.com/news/2007/070829/full/news070827-4.html)
 
-{% comment %} 
-	* [Bipedal lizard movie](https://www.youtube.com/watch?v=XAo09yYOpCU)
-	* [Jesus lizard movie](https://www.youtube.com/watch?v=45yabrnryXk)
-{% endcomment %} 
+* [Bipedal lizard movie](https://www.youtube.com/watch?v=XAo09yYOpCU)
+* [Jesus lizard movie](https://www.youtube.com/watch?v=45yabrnryXk)
 
 

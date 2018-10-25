@@ -4,8 +4,8 @@ title: Primate evolution
 ---
 
 * [Handouts (please print and bring to class)](/materials/primates.handouts.pdf)
-{% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/primates.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 ## Additional resources
