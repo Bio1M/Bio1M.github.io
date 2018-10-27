@@ -1,7 +1,12 @@
+## make serve ##
 # http://localhost:4215/
 # http://localhost:4215/announce.html
 
 # http://Bio1M.github.io
+# new announcement
+#	https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=251005
+
+######################################################################
 
 # home
 #	https://avenue.cllmcmaster.ca/d2l/home/251005 
@@ -9,13 +14,8 @@
 # announcement list
 #	https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=251005
 
-# new announcement
-#	https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=251005
-
 # forum
 #	https://avenue.cllmcmaster.ca/d2l/le/251005/discussions/List
-
-## make serve ##
 
 ######################################################################
 
