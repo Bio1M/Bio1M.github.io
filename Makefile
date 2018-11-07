@@ -10,7 +10,8 @@
 # home
 #	https://avenue.cllmcmaster.ca/d2l/home/251005 
 
-# announcement list
+# announcements (new and list)
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=251005&global=0
 #	https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=251005
 
 # forum
