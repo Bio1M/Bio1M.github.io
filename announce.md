@@ -4,7 +4,7 @@ title: Dushoff travel
 slug: 1_travel
 ---
 
-There will be no Dushoff office hours this week, due to travel.
+There will be no Dushoff office hours this week, due to travel. Sorry for inconvenience.
 
 {% comment %} 
 * [Notes](/materials/hominins.handouts.pdf) for [The hominins unit](/hominins.html)
