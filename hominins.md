@@ -3,8 +3,8 @@ layout: page
 title: Hominins
 ---
 
-* [Handouts (please print and bring to class)](/materials/homo.handouts.pdf)
-  * [Complete notes (for reference only, no need to print)](/materials/homo.complete.pdf)
+* [Handouts (please print and bring to class)](/materials/hominins.handouts.pdf)
+  * [Complete notes (for reference only, no need to print)](/materials/hominins.complete.pdf)
 {% comment %} 
 {% endcomment %} 
 
