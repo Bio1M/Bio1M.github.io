@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practice questions (Apes unit)
+title: Practice questions (Primates unit)
 ---
 
 MC. Which of the following is _not_ a trait used to distinguish the

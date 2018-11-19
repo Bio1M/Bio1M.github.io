@@ -3,6 +3,12 @@ layout: page
 title: Midterm 2
 ---
 
+Midterm 2 will be _cumulative_ but with more emphasis on not-yet-tested material.
+
+Here are [some sample questions](materials/old2.test.pdf)
+{% comment %} 
+* [key](materials/old2.key.pdf)
+{% endcomment %} 
 
 {% comment %} 
 
