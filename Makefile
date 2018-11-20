@@ -1,9 +1,9 @@
 # http://localhost:4215/
 # http://localhost:4215/announce.html
 
-# http://Bio1M.github.io
 # new announcement
-#	https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=251005
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=251005
+# http://Bio1M.github.io
 
 ######################################################################
 
