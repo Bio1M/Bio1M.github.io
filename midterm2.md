@@ -5,12 +5,11 @@ title: Midterm 2
 
 Midterm 2 will be _cumulative_ but with more emphasis on not-yet-tested material.
 
-Here are [some sample questions](materials/old2.test.pdf)
+[Sample questions](materials/old2.test.pdf)
 * [key](materials/old2.key.pdf)
-{% comment %} 
-{% endcomment %} 
 
 {% comment %} 
+{% endcomment %} 
 
 _Note: versions are the same except for ordering; you don't need to study other versions._
 
@@ -22,5 +21,3 @@ _Note: versions are the same except for ordering; you don't need to study other 
 	* [Key](/tests/midterm2.3.key.pdf)
 * [Version 4](/tests/midterm2.4.test.pdf)
 	* [Key](/tests/midterm2.4.key.pdf)
-
-{% endcomment %} 
