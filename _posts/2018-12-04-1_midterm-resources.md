@@ -4,7 +4,7 @@ title: Midterm resources
 slug: 1_midterm resources
 ---
 
-Tests and answer are available on the [midterm 2 page](/midterm2.html)
+Tests and answers are available on the [midterm 2 page](/midterm2.html)
 
 {% comment %} 
 * [Notes](/materials/hominins.handouts.pdf) for [The hominins unit](/hominins.html)
