@@ -5,6 +5,7 @@ slug: 1_resources
 ---
 
 The Dushoff part of the final will have 30 multiple choice questions. Breakdowns are hard (because questions span units), but I estimate approximately:
+
 * 6 focused on Introductory material (intro and ns units)
 * 12 on Evolutionary mechanisms (processes, speciation, phylogeny)
 * 12 on supplement material (primates, hominins)
