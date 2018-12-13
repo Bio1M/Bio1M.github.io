@@ -24,3 +24,34 @@ C. chimpanzees; they are more likely to use their genitals as part of sexual com
 
 D. gorillas; they are more likely to use their genitals as part of sexual competition
 
+MC There are many thousands of bee species, all of whom make their living by using flower resources from flowering plants. Many flowering plants have also adapted to attract different species of bee, and use them to efficiently have sex (transfer pollen). This is an example of diversification via
+
+A. Genetic drift
+
+B. Gene flow
+
+C. Allopatry
+
+D. Co-evolution
+
+MC Which is not a key trait used to distinguish _mammals_ from their relatives?
+
+A. Produce milk
+
+B. Diaphragm enhances respiration
+
+C. Hair (fur) for insulation
+
+D. Hard palate to breathe efficiently while eating
+
+E. Four-legged body plan
+
+MC Which is the most likely reason why most mammals have two sets of teeth (the first set falls out)?
+
+A. The early teeth are adapted for drinking milk and the later for eating food
+
+B. The early teeth are better adapted for fighting and the later for eating
+
+C. The early teeth are better adapted for early and the later for fighting
+
+D. Having two sets increases the probability of having functional teeth later in life

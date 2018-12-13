@@ -10,6 +10,11 @@ title: Hominins
 
 ## Additional resources
 
+* [Practice questions](hominin_ques.html)
+{% comment %} 
+	* [answers](hominin_ans.html)
+{% endcomment %} 
+
 * [Ape canines](https://www.researchgate.net/figure/Canine-bimodality-in-extant-African-Apes-Extant-African-apes-possess-a-high-degree-of_fig22_41025013)
 * [Studying dental enamel](https://embryo.asu.edu/pages/human-evolution-inferred-tooth-growth-and-development)
 
