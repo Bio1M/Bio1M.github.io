@@ -13,7 +13,9 @@ C. Hominins evolution involves "looping" adaptations
 
 D. Hominins display advanced social behaviour
 
-MC Because hunting provides adaptive incentives for co-operation and complex sociality, then hunting societies might evolve to have ____ behaviour crystallization and _____ sexual dimorphism
+MC Because hunting provides adaptive incentives for co-operation and complex sociality, then hunting societies might evolve to have
+____ behaviour crystallization and
+_____ sexual dimorphism
 
 A. more; more
 

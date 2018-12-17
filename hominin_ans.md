@@ -13,15 +13,17 @@ C. Hominins evolution involves "looping" adaptations
 
 D. Hominins display advanced social behaviour
 
-MC Because hunting provides adaptive incentives for co-operation and complex sociality, then hunting societies might evolve to have ____ behaviour crystallization and _____ sexual dimorphism
+MC Because hunting provides adaptive incentives for co-operation and complex sociality, then hunting societies might evolve to have
+____ behaviour crystallization and
+_____ sexual dimorphism
 
 A. more; more
 
-* B. more; less
+B. more; less
 
 C. less; more
 
-D. less; less
+* D. less; less
 
 MC We say that the distribution of gorilla canine sizes is highly bimodal because it has
 
