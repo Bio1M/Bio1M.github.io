@@ -11,8 +11,8 @@ title: Primate evolution
 ## Additional resources
 
 * [Practice questions](primate_ques.html)
-{% comment %} 
 	* [answers](primate_ans.html)
+{% comment %} 
 {% endcomment %} 
 
 * [Eye orbits on wikipedia](https://en.wikipedia.org/wiki/Orbit_(anatomy))

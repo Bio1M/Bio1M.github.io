@@ -33,5 +33,5 @@ C. Large mean
 
 D. Small mean
 
-E. Two peaks
+* E. Two peaks
 
