@@ -26,11 +26,13 @@
           </li>
           {% endif %}
 
+          {% if site.facebook_on %}
 			  <li>
 				 <a href="https://www.facebook.com/groups/{{ site.facebook_group }}">
 					<i class="fa fa-facebook"></i> Facebook group
 				 </a>
 			  </li>
+          {% endif %}
 
           {% if site.ftwitter_username %}
           <li>
