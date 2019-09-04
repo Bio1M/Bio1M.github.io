@@ -1,38 +1,3 @@
-# http://localhost:4215/
-# http://localhost:4215/announce.html
-
-# new announcement
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=251005
-# http://Bio1M.github.io
-
-# make serve ##
-
-######################################################################
-
-# home
-#	https://avenue.cllmcmaster.ca/d2l/home/251005 
-
-# announcements (new and list)
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=251005&global=0
-#	https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=251005
-
-# forum
-#	https://avenue.cllmcmaster.ca/d2l/le/251005/discussions/List
-
-######################################################################
-
-### Hooks for the editor to set the default target
-Ignore += target.mk
-current: target
-target = Makefile
--include target.mk
-target: $(target)
-
-##################################################################
-
-Sources += Makefile .ignore README.md sub.mk LICENSE.md
-include sub.mk
--include $(ms)/perl.def
 
 ##################################################################
 
@@ -132,11 +97,3 @@ Sources += $(wildcard tests/*)
 commit.time: tests
 tests:
 	mkdir $@
-
--include $(ms)/git.mk
--include $(ms)/visual.mk
-
-# -include $(ms)/wrapR.mk
-# -include $(ms)/oldlatex.mk
-
-
