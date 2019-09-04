@@ -10,7 +10,7 @@ current: target
 # Content
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vm target.mk"
 
 Sources += content.mk
 
