@@ -17,25 +17,27 @@ _This page has links to all announcements and resources related to material cont
 	{% endfor %}
 </ul>
 
-# [Older updates](updates.html)
 {% comment %} 
+# [Older updates](updates.html)
 {% endcomment %} 
 
 # Course information
 
-{% comment %} 
-{% endcomment %} 
-
-* [Dushoff office hours](/office.html)
-* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/251005)
+* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/289069)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [Course outline](/materials/outline.pdf)
-* [Classroom announcements](/announcements.html)
+* [Classroom announcements policy](/announcements.html)
+{% comment %} 
+* [Dushoff office hours](/office.html)
+{% endcomment %} 
 
 # Course content
 
-* [Course co-ordinator's introduction](materials/tracey.pdf)
+{% comment %} 
+* [Course co-ordinator's introduction](materials/outline.pdf)
+{% endcomment %} 
 * [Introductory unit](intro.html)
+{% comment %} 
 * [Evolution by natural selection](ns.html)
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
@@ -43,33 +45,19 @@ _This page has links to all announcements and resources related to material cont
 * [Primate evolution](primates.html)
 * [Hominin evolution](hominins.html)
 
-{% comment %} 
 HHE content units
 * [The evolution of apes](apes.html)
 * [Hominins](homo.html)
 {% endcomment %} 
 
+{% comment %} 
 # Tests 
 
 * [Practice questions](practice.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 
-{% comment %} 
 * [Final exam](final.html) 
 practice.md
 midterm1.md
-{% endcomment %} 
-
-{% comment %} 
-# Policies
-
-* [Tutorial policy](Tutorials.html)
-* [Excuses for missed tests and missed work](Excuses.html)
-* [Access to the course](Access.html)
-* [Collaboration guidelines](Collaboration.html)
-* [Regrades](Regrades.html)
-
-# Links
-* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/201446)
 {% endcomment %} 
