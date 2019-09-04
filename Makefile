@@ -12,12 +12,10 @@
 
 ######################################################################
 
-# home
+# Avenue
 ## https://avenue.cllmcmaster.ca/d2l/home/289069
-#	https://avenue.cllmcmaster.ca/d2l/home/289069 
-#	https://avenue.cllmcmaster.ca/d2l/home
 
-# announcements (new and list)
+# announcements (new/list)
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=289069&global=0
 #	https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=289069
 
@@ -29,12 +27,12 @@
 current: target
 -include target.mk
 
+-include makestuff/perl.def
+
 ######################################################################
 
 vim_session:
-	bash -cl "vmt"
-
-Sources += content.mk
+	bash -cl "vm index.md"
 
 ##################################################################
 
@@ -55,17 +53,21 @@ Sources += post.pl key.pl
 _posts:
 	$(mkdir)
 
-Ignore += 2017_post.list
-2017_post.list:
-	ls 2017_p*/* > 2017_post.list ##
-
 # announce.post: announce.md
-# Title is taken from slug (if it exists) or else from filename (usually announce, so bad)
+# Title is taken from slug (if it exists) or else from filename (usually announce, so bad, use slug)
 Ignore += announce.post
 %.post: %.md post.pl
 	$(MAKE) _posts
 	$(PUSH)
 	$(shell_execute)
+
+## Reboot
+Ignore += *_post.list
+%_post.list:
+	ls $*_p*/* > $*_post.list ##
+
+## git mv _posts 2018_posts ##
+## make 2018_post.list ##
 
 ######################################################################
 
@@ -120,6 +122,7 @@ Ignore +=	.sass-cache/ _site/
 ## cp -r _config.yml Gemfile_* _includes _layouts css _sass ~/gitroot/labPages ##
 
 Ignore += Gemfile Gemfile.lock
+## Gemfile_sb.set:
 Gemfile_orig.set Gemfile_sb.set: /proc/uptime
 	/bin/ln -fs $(basename $@)  Gemfile
 
