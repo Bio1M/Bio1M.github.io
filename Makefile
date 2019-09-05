@@ -34,8 +34,6 @@ current: target
 vim_session:
 	bash -cl "vm index.md"
 
-pullup: web.pull
-
 ##################################################################
 
 ## Content
