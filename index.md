@@ -28,6 +28,7 @@ _This page has links to all announcements and resources related to material cont
 * [Course outline](/materials/outline.pdf)
 * [Classroom announcements policy](/announcements.html)
 * [Dushoff office hours](/office.html)
+* [Unofficial textbook notes](books.html)
 {% comment %} 
 {% endcomment %} 
 
