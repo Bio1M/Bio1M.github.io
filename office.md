@@ -3,9 +3,12 @@ layout: page
 title: Dushoff office hours
 ---
 
-* Regular office hours while teaching
-	* Mon 9:00-9:50 in LSB-332
-	* Wed 11:30-12:20 in LSB-332
+My office hours are in Room D of the Biology resource room (BSB-201A/D)
+
+* Mon 15:30-16:20
+* Thu 14:30-15:20
+
+You will be notified by Avenue announcement if this changes
 
 {% comment %} 
 * Additional office hour
@@ -13,3 +16,4 @@ title: Dushoff office hours
 {% endcomment %} 
 
 You may also schedule an appointment by [email](mailto:dushoff@mcmaster.ca) if these times are not convenient for you.
+

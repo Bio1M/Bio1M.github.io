@@ -12,15 +12,16 @@
 
 ######################################################################
 
-# Avenue
+# Other avenue
+
+# Main
 ## https://avenue.cllmcmaster.ca/d2l/home/289069
 
-# announcements (new/list)
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=289069&global=0
+# announcements (list)
 #	https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=289069
 
 # forum
-#	https://avenue.cllmcmaster.ca/d2l/le/289069/discussions/List
+## https://avenue.cllmcmaster.ca/d2l/le/289069/discussions/List
 
 ######################################################################
 
