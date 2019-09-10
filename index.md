@@ -38,8 +38,8 @@ _This page has links to all announcements and resources related to material cont
 * [Course co-ordinator's introduction](materials/outline.pdf)
 {% endcomment %} 
 * [Introductory unit](intro.html)
-{% comment %} 
 * [Evolution by natural selection](ns.html)
+{% comment %} 
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
 * [Phylogeny and the history of life](phylogeny.html)
