@@ -8,6 +8,7 @@
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=289069
 # http://Bio1M.github.io
 
+# killall jekyll
 # make serve ##
 
 ######################################################################
