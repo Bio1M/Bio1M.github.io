@@ -19,3 +19,5 @@ title: Evolution by natural selection
 
 * [Wikipedia on the blind spot](https://en.wikipedia.org/wiki/Blind_spot_(vision))
 
+* [Epigenetics is the study of heritable non-DNA changes](https://en.wikipedia.org/wiki/Epigenetics). Some of these could count as Lamarckian acquired characterisics. This is beyond Bio 1 in my opinion and is just for your interest.
+
