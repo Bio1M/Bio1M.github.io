@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday class cancelled
+title: Last class this week cancelled
 slug: 1_cancellation
 ---
 
