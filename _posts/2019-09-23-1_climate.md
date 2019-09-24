@@ -6,9 +6,12 @@ slug: 1_climate
 
 The professor who presented about climate today is Jim Quinn.
 
-You can view the [macgreeninvest main page](http://macgreeninvest.wordpress.com) or [go straight to the petition page](http://bit.ly/2kIpMNF).
+For more information, see:
 
-You can also view the [University's statement about Friday's Global Climate Strike](https://dailynews.mcmaster.ca/articles/supporting-global-understanding-and-action-on-climate-change/)
+* [The MacGreenInvest main page](http://macgreeninvest.wordpress.com)
+	* [Their petition page](http://bit.ly/2kIpMNF)
+* [The Climate strike event page](https://www.facebook.com/events/576662486203456/)
+	* [The University's statement about Friday's Strike](https://dailynews.mcmaster.ca/articles/supporting-global-understanding-and-action-on-climate-change/)
 
 
 
