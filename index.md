@@ -40,8 +40,8 @@ _This page has links to all announcements and resources related to material cont
 * [Introductory unit](intro.html)
 * [Evolution by natural selection](ns.html)
 * [Evolutionary processes](processes.html)
-{% comment %} 
 * [Speciation](speciation.html)
+{% comment %} 
 * [Phylogeny and the history of life](phylogeny.html)
 * [Primate evolution](primates.html)
 * [Hominin evolution](hominins.html)
