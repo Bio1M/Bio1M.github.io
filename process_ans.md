@@ -20,12 +20,10 @@ d.  decrease; stabilizing
 
 e.  stay the same; stabilizing
 
-
 MC. Suppose 36% of a remote mountain village can taste
 phenylthiocarbamide (PTC) and must therefore have at least one copy of
-the dominant PTC taster allele. If this population conforms to
-Hardy-Weinberg expectations for this gene, what percentage of the
-population must be heterozygous for this trait?
+the dominant PTC taster allele. If we assume this population is approximately consistent with Hardy-Weinberg assumptions for this gene, approximately what percentage of the
+population should be heterozygous for this trait?
 
 a.  16%
 
