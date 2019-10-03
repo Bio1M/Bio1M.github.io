@@ -51,10 +51,11 @@ HHE content units
 * [Hominins](homo.html)
 {% endcomment %} 
 
-{% comment %} 
 # Tests 
 
 * [Practice questions](practice.html)
+
+{% comment %} 
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 

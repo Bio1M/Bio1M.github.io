@@ -3,6 +3,11 @@ layout: page
 title: Midterm 1
 ---
 
+* Midterm 1 will cover through S1 of phylogeny (i.e., pp. 1-6 of the phylogeny handouts). Complete notes for this section will be posted on Monday.
+
+I have posted some [practice materials](practice.html)
+
+{% comment %} 
 _Note: versions are the same except for ordering; you don't need to study other versions._
 
 * [Version 1](/tests/midterm1.1.test.pdf)
@@ -14,8 +19,4 @@ _Note: versions are the same except for ordering; you don't need to study other 
 * [Version 4](/tests/midterm1.4.test.pdf)
 	* [Key](/tests/midterm1.4.key.pdf)
 
-
-{% comment %} 
-
-Fix roses question!!!
 {% endcomment %} 
