@@ -22,9 +22,9 @@ title: Phylogeny and the history of life
 
 * [Coyotes and wolves](http://advances.sciencemag.org/content/2/7/e1501714)
 
-* [The bee who was fossilized with orchid pollen](http://www.nature.com/news/2007/070829/full/news070827-4.html)
+* [The bee who was fossilized with orchid pollen](https://www.nature.com/news/2007/070827/full/070827-4.html)
 
-[![Fossil bee carrying pollen](materials/bee.jpg)](http://www.nature.com/news/2007/070829/full/news070827-4.html)
+[![Fossil bee carrying pollen](materials/bee.jpg)](http://www.nature.com/news/2007/070827/full/070827-4.html)
 
 * [Bipedal lizard movie](https://www.youtube.com/watch?v=XAo09yYOpCU)
 * [Jesus lizard movie](https://www.youtube.com/watch?v=45yabrnryXk)
