@@ -11,8 +11,8 @@ title: Practice questions
 * [2017 midterm 1](archive/2017_materials/midterm1.test.pdf)
 	* [Answers](archive/2017_materials/midterm1.key.pdf)
 * [2018 midterm 1](materials/practice/18M1.test.pdf)
-{% comment %} 
 	* [Answers](materials/practice/18M1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Introductory unit](intro_ques.html)
