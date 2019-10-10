@@ -42,10 +42,10 @@ _This page has links to all announcements and resources related to material cont
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
 * [Phylogeny and the history of life](phylogeny.html)
+* [Human evolution](humans.html)
 {% comment %} 
 * [Primate evolution](primates.html)
 * [Hominin evolution](hominins.html)
-
 HHE content units
 * [The evolution of apes](apes.html)
 * [Hominins](homo.html)
