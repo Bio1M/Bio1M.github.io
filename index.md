@@ -54,12 +54,9 @@ HHE content units
 # Tests 
 
 * [Practice questions](practice.html)
+* [Midterm 1](midterm1.html)
 
 {% comment %} 
-* [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
-
 * [Final exam](final.html) 
-practice.md
-midterm1.md
 {% endcomment %} 

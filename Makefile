@@ -1,4 +1,4 @@
-## This is Bio1M/Bio1M.github.io.git, a screens project directory
+## This is Bio1M/Bio1M.github.io.git,  a screens project directory
 ## makestuff/project.Makefile
 
 # http://localhost:4215/
@@ -131,7 +131,7 @@ Ignore +=	.sass-cache/ _site/
 Ignore += Gemfile Gemfile.lock
 ## Gemfile_sb.set:
 Gemfile_orig.set Gemfile_sb.set: /proc/uptime
-	/bin/ln -fs $(basename $@) Gemfile
+	/bin/ln -fs $(basename $@)  Gemfile
 
 ######################################################################
 
