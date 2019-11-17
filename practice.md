@@ -8,11 +8,11 @@ title: Practice questions
 	* [Answers](tests/practice2.key.pdf)
 {% endcomment %} 
 
+{% comment %} 
 * [2017 midterm 1](archive/2017_materials/midterm1.test.pdf)
 	* [Answers](archive/2017_materials/midterm1.key.pdf)
 * [2018 midterm 1](materials/practice/18M1.test.pdf)
 	* [Answers](materials/practice/18M1.key.pdf)
-{% comment %} 
 {% endcomment %} 
 
 * [Introductory unit](intro_ques.html)
@@ -25,8 +25,5 @@ title: Practice questions
 	* [Answers](speciation_ans.html)
 * [Phylogeny and the history of life](phylo_ques.html)
 	* [Answers](phylo_ans.html)
-
-{% comment %} 
-* [The evolution of apes](ape_ques.html)
+* [Human evolution](ape_ques.html)
 	* [Answers](ape_ans.html)
-{% endcomment %} 
