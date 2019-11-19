@@ -18,6 +18,7 @@ There are some practice materials below. Note that:
 * [key](materials/practice/old2.key.pdf)
 
 [Last year's midterm 2](materials/practice/18M2.test.pdf)
+* [key](materials/practice/18M2.key.pdf)
 
 There is also a [practice page](practice.html)
 
