@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test material
+title: Test questions
 slug: 2_questions
 ---
 
