@@ -10,9 +10,9 @@ title: Phylogeny and the history of life
 
 ## Additional resources
 
-{% comment %} 
 * [Practice questions](phylo_ques.html)
 	* [answers](phylo_ans.html)
+{% comment %} 
 {% endcomment %} 
 
 * [Vertebrate phylogeny](http://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/Vertebrata_cladogram2.png)([ucl.ac.uk](http://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/))
