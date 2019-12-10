@@ -16,5 +16,7 @@ The answers (depending on version) are:
 
 * We would expect plains zebra to show more sexual dimorphism in _body_ size because competition is more likely to involve fighting in that species.
 
+You've probably only seen one version, but I wanted to give a complete explanation of this one.
+
 My apologies!
 
