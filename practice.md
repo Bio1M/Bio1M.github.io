@@ -3,16 +3,16 @@ layout: page
 title: Practice questions
 ---
 
-{% comment %} 
 * [Additional practice for midterm 2](tests/practice2.test.pdf)
 	* [Answers](tests/practice2.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
-{% comment %} 
 * [2017 midterm 1](archive/2017_materials/midterm1.test.pdf)
 	* [Answers](archive/2017_materials/midterm1.key.pdf)
 * [2018 midterm 1](materials/practice/18M1.test.pdf)
 	* [Answers](materials/practice/18M1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Introductory unit](intro_ques.html)
