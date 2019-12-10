@@ -11,8 +11,8 @@ title: Speciation
 ## Additional resources
 * [A cool site about soapberry bugs](http://www.soapberrybug.org/01_cms/details.asp)
 
-{% comment %} 
 * [Practice questions](speciation_ques.html)
+{% comment %} 
 {% endcomment %} 
 
 

@@ -10,9 +10,9 @@ title: Human evolution
 
 ## Additional resources
 
-{% comment %} 
 * [Practice questions](primate_ques.html)
 	* [answers](primate_ans.html)
+{% comment %} 
 {% endcomment %} 
 
 * [Eye orbits on wikipedia](https://en.wikipedia.org/wiki/Orbit_(anatomy))

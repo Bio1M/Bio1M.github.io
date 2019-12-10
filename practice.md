@@ -15,6 +15,9 @@ title: Practice questions
 {% comment %} 
 {% endcomment %} 
 
+* [Practice final](tests/d2018.qkey.pdf)
+	* [key](tests/d2018.qtest.pdf)
+
 * [Introductory unit](intro_ques.html)
 	* [Answers](intro_ans.html)
 * [Evolution by natural selection](ns_ques.html)
