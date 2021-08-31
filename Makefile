@@ -9,7 +9,7 @@
 # http://Bio1M.github.io
 
 # killall jekyll
-# make serve ##
+# make serve ## jekyll.log ##
 
 ######################################################################
 
