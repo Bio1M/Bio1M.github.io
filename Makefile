@@ -11,6 +11,8 @@
 # killall jekyll
 # make serve ## jekyll.log ##
 
+Ignore += .jekyll-cache
+
 ######################################################################
 
 # Other avenue
@@ -41,6 +43,8 @@ vim_session:
 ## Content
 
 # index.md
+
+Sources = Makefile
 
 Sources += $(wildcard *.md) updates.html
 
@@ -148,8 +152,6 @@ tests:
 ######################################################################
 
 ### Makestuff
-
-Sources += Makefile
 
 Ignore += makestuff
 msrepo = https://github.com/dushoff
