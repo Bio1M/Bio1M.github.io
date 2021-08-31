@@ -61,7 +61,7 @@ _posts:
 
 # announce.post: announce.md
 # Title is taken from slug (if it exists) or else from filename (usually announce, so bad, use slug)
-Ignore += announce.post
+Sources += announce.post
 %.post: %.md post.pl
 	$(MAKE) _posts
 	$(PUSH)
