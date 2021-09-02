@@ -72,13 +72,13 @@ Ignore += *_post.list
 %_post.list:
 	ls $*_p*/* > $*_post.list ##
 
-## git mv _posts 2018_posts ##
+## git mv _posts 2019_posts ##
 
 ## Do we need a material archive?
 ## Probably helpful, but would contain < half of the test material
-## make 2018_post.list ##
+## make 2019_post.list ##
 ## mkdir archive ##
-## git mv 2017_materials/ 2017_posts/ archive
+## git mv 2018_posts/ archive ##
 
 ######################################################################
 
