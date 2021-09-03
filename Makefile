@@ -73,6 +73,7 @@ Ignore += *_post.list
 	ls $*_p*/* > $*_post.list ##
 
 ## git mv _posts 2019_posts ##
+## git mv materials 2019_materials ##
 
 ## Do we need a material archive?
 ## Probably helpful, but would contain < half of the test material

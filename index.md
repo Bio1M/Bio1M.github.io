@@ -23,7 +23,8 @@ _This page has links to all announcements and resources related to material cont
 
 # Course information
 
-* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/289069)
+* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/412000)
+* [Class Teams team](https://teams.microsoft.com/l/team/19%3aabqC9ao2ShWYbTbQeLP8RRHnyxcB4aNF9vLL9S4OUbA1%40thread.tacv2/conversations?groupId=8fcfe17f-757c-4740-9b51-ac5be14bc8a9&tenantId=44376307-b429-42ad-8c25-28cd496f4772)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [Classroom announcements policy](/announcements.html)
 {% comment %} 
@@ -34,9 +35,9 @@ _This page has links to all announcements and resources related to material cont
 
 # Course content
 
+* [Introductory unit](intro.html)
 {% comment %} 
 * [Course co-ordinator's introduction](materials/outline.pdf)
-* [Introductory unit](intro.html)
 * [Evolution by natural selection](ns.html)
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
@@ -53,12 +54,12 @@ HHE content units
 * [Hominins](homo.html)
 {% endcomment %} 
 
+{% comment %} 
 # Tests 
 
 * [Practice questions](practice.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 
-{% comment %} 
 * [Final exam](final.html) 
 {% endcomment %} 
