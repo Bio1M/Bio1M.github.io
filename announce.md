@@ -4,4 +4,4 @@ title: Lectures
 slug: 0_lectures
 ---
 
-Lectures in Bio 1M will be given by Dushoff (first half of the semester) and Kolasa. Dushoff will start lecturing on Tue 7 Sep. All Dushoff lecture material will be available through [a public resource page](https://bio1m.github.io/); all announcements will also be copied to Teams and to Avenue. Looking forward to seeing you Tue morning!
+Lectures in Bio 1M will be given by Jonathan Dushoff (first half of the semester) and Jurek Kolasa. Dr. Dushoff will start lecturing on Tue 7 Sep. All Dushoff lecture material will be available through [a public resource page](https://bio1m.github.io/); all announcements will also be copied to Teams and to Avenue. Looking forward to seeing you Tue morning!

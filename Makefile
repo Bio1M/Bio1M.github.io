@@ -5,6 +5,7 @@
 # http://localhost:4215/announce.html
 
 # new announcement
+## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=412000
 # http://Bio1M.github.io
 
