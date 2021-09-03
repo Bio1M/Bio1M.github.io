@@ -10,9 +10,9 @@ title: Introductory unit
   * [Large format](/materials/intro.large.pdf)
 {% endcomment %} 
 
+{% comment %} 
 ## Additional resources
 
-{% comment %} 
 * [Practice questions](intro_ques.html)
 	* [Answers](intro_ans.html)
 
