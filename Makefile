@@ -5,6 +5,7 @@
 # http://localhost:4215/announce.html
 
 # new announcement
+## https://cap.mcmaster.ca/mcauth/login.jsp
 ## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=412000
 # https://teams.microsoft.com/_#/school/conversations/General?threadId=19:abqC9ao2ShWYbTbQeLP8RRHnyxcB4aNF9vLL9S4OUbA1@thread.tacv2&ctx=channel
