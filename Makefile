@@ -5,7 +5,10 @@
 # http://localhost:4215/announce.html
 
 # new announcement
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=289069
+## https://cap.mcmaster.ca/mcauth/login.jsp
+## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=412000
+# https://teams.microsoft.com/_#/school/conversations/General?threadId=19:abqC9ao2ShWYbTbQeLP8RRHnyxcB4aNF9vLL9S4OUbA1@thread.tacv2&ctx=channel
 # http://Bio1M.github.io
 
 # killall jekyll
@@ -18,13 +21,13 @@ Ignore += .jekyll-cache
 # Other avenue
 
 # Main
-## https://avenue.cllmcmaster.ca/d2l/home/289069
+## https://avenue.cllmcmaster.ca/d2l/home/412000
 
 # announcements (list)
-#	https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=289069
+#	https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=412000
 
 # forum
-## https://avenue.cllmcmaster.ca/d2l/le/289069/discussions/List
+## https://avenue.cllmcmaster.ca/d2l/le/412000/discussions/List
 
 ######################################################################
 
@@ -72,13 +75,14 @@ Ignore += *_post.list
 %_post.list:
 	ls $*_p*/* > $*_post.list ##
 
-## git mv _posts 2018_posts ##
+## git mv _posts 2019_posts ##
+## git mv materials 2019_materials ##
 
 ## Do we need a material archive?
 ## Probably helpful, but would contain < half of the test material
-## make 2018_post.list ##
+## make 2019_post.list ##
 ## mkdir archive ##
-## git mv 2017_materials/ 2017_posts/ archive
+## git mv 2018_posts/ archive ##
 
 ######################################################################
 

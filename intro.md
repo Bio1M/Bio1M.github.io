@@ -10,11 +10,11 @@ title: Introductory unit
   * [Large format](/materials/intro.large.pdf)
 {% endcomment %} 
 
+{% comment %} 
 ## Additional resources
 
-{% comment %} 
 * [Practice questions](intro_ques.html)
 	* [Answers](intro_ans.html)
-{% endcomment %} 
 
 * [A recent giraffe fight video](https://www.youtube.com/watch?v=KQLPL1qRhn8)
+{% endcomment %} 
