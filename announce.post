@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-cp announce.md _posts/2021-09-07-1_out.md
-=======
-cp announce.md _posts/2021-09-07-0_Teams.md
->>>>>>> 3318fa9599dd3a8301aa82f6dceb105c04ce7964
+cp announce.md _posts/2021-09-10-0_Teams.md
