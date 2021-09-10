@@ -5,11 +5,11 @@
 # http://localhost:4215/announce.html
 
 # new announcement
-## https://cap.mcmaster.ca/mcauth/login.jsp
 ## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=412000
 # https://teams.microsoft.com/_#/school/conversations/General?threadId=19:abqC9ao2ShWYbTbQeLP8RRHnyxcB4aNF9vLL9S4OUbA1@thread.tacv2&ctx=channel
-# http://Bio1M.github.io
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=412000
+# http://Bio1M.github.io/announce.html
+# http://Bio1M.github.io/
 
 # killall jekyll
 # make serve ## jekyll.log ##
@@ -64,7 +64,7 @@ _posts:
 
 # announce.post: announce.md
 # Title is taken from slug (if it exists) or else from filename (usually announce, so bad, use slug)
-Sources += announce.post
+Sources += announce.post ## Why?? 2021 Sep 10 (Fri)
 %.post: %.md post.pl
 	$(MAKE) _posts
 	$(PUSH)
