@@ -39,7 +39,7 @@ current: target
 ######################################################################
 
 vim_session:
-	bash -cl "vm index.md"
+	bash -cl "vm index.md announce.md 2019_posts jekyll.log"
 
 ##################################################################
 
@@ -63,7 +63,7 @@ _posts:
 	$(mkdir)
 
 # announce.post: announce.md
-# Title is taken from slug (if it exists) or else from filename (usually announce, so bad, use slug)
+# Title is taken from slug (if it exists) or else from filename (usually announce, so use slug)
 Sources += announce.post ## Why?? 2021 Sep 10 (Fri)
 %.post: %.md post.pl
 	$(MAKE) _posts
