@@ -39,7 +39,7 @@ current: target
 ######################################################################
 
 vim_session:
-	bash -cl "vm index.md announce.md 2019_posts jekyll.log"
+	bash -cl "vmt index.md announce.md 2019_post.list jekyll.log"
 
 ##################################################################
 

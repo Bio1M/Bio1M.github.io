@@ -5,8 +5,8 @@ title: Introductory unit
 
 * [Handouts (please print and bring to class)](/materials/intro.handouts.pdf)
 
-{% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
+{% comment %} 
   * [Large format](/materials/intro.large.pdf)
 {% endcomment %} 
 
