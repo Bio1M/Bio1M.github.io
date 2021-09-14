@@ -3,17 +3,15 @@ layout: page
 title: Dushoff office hours
 ---
 
-My office hours are in Room D of the Biology resource room (BSB-201A/D)
+Office hours will be in the [Teams Dushoff office hours channel](https://teams.microsoft.com/_#/school/conversations/General?threadId=19:abqC9ao2ShWYbTbQeLP8RRHnyxcB4aNF9vLL9S4OUbA1@thread.tacv2&ctx=channel)
 
-* Mon 15:30-16:20
-* Thu 14:30-15:20
-
-You will be notified by Avenue announcement if this changes
+* Mon 10:30-11:20
+* Thu 9:30-10:20
 
 {% comment %} 
 * Additional office hour
 	* Fri 10-11 in the Resource Room (BSB-201A/E)
 {% endcomment %} 
 
-You may also schedule an appointment by [email](mailto:dushoff@mcmaster.ca) if these times are not convenient for you.
+You may also schedule an appointment by [email](mailto:dushoff@mcmaster.ca).
 

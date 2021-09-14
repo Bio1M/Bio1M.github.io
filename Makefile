@@ -1,6 +1,8 @@
 ## This is Bio1M/Bio1M.github.io.git,  a screens project directory
 ## makestuff/project.Makefile
 
+# killall jekyll
+# make serve ## jekyll.log ##
 # http://localhost:4215/
 # http://localhost:4215/announce.html
 
@@ -10,9 +12,6 @@
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=412000
 # http://Bio1M.github.io/announce.html
 # http://Bio1M.github.io/
-
-# killall jekyll
-# make serve ## jekyll.log ##
 
 Ignore += .jekyll-cache
 
