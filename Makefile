@@ -128,17 +128,17 @@ favicon.ico: baobab.crop.jpg
 
 # Jekyll
 
-Sources += _config.yml $(wildcard Gemfile_*)
-
+Sources += _config.yml
 Sources += _includes/* _layouts/* css/* _sass/*
 
 Ignore +=	.sass-cache/ _site/
 ## cp -r _config.yml Gemfile_* _includes _layouts css _sass ~/gitroot/labPages ##
 
 Ignore += Gemfile Gemfile.lock
+Sources += $(wildcard Gemfile.*)
 ## Gemfile_sb.set:
-Gemfile_orig.set Gemfile_sb.set: /proc/uptime
-	/bin/ln -fs $(basename $@)  Gemfile
+Gemfile_orig.set Gemfile_sb.set: Gemfile_%.set: Gemfile.%
+	/bin/ln -fs $< Gemfile
 
 ######################################################################
 
