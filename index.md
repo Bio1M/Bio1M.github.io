@@ -28,6 +28,8 @@ _This page has links to all announcements and resources related to material cont
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [Dushoff office hours](/office.html)
 * [Unofficial textbook notes](books.html)
+* [Thoughts on Teams lectures](teams.html)
+
 {% comment %} 
 * [Classroom announcements policy](/announcements.html)
 * [Course outline](/materials/outline.pdf)

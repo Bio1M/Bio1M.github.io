@@ -137,7 +137,7 @@ Ignore +=	.sass-cache/ _site/
 Ignore += Gemfile Gemfile.lock
 Sources += $(wildcard Gemfile.*)
 ## Gemfile_sb.set:
-Gemfile_orig.set Gemfile_sb.set: Gemfile_%.set: Gemfile.%
+Gemfile_%.set: Gemfile.%
 	/bin/ln -fs $< Gemfile
 
 ######################################################################
