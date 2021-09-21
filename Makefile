@@ -1,5 +1,4 @@
-## This is Bio1M/Bio1M.github.io.git,  a screens project directory
-## makestuff/project.Makefile
+## This is Bio1M web
 
 # killall jekyll
 # make serve ## jekyll.log ##
