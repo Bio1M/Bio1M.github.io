@@ -3,12 +3,17 @@ layout: page
 title: Midterm 1
 ---
 
+* Midterm 1 will be held Thu 7 October from 7:00-8:30 PM
+	* For logistical information see [the outline on Avenue]( https://avenue.cllmcmaster.ca/d2l/le/content/412000/viewContent/3274724/View), or [contact the course administrator](mailto:bio1m03@mcmaster.ca)
+* Content will be finalized by Fri 1 October at [lunchtime](lunchtime.html).
+
 {% comment %} 
-* Midterm 1 will be held Wed 9 October at 7 PM
 * The test will cover through S1 of phylogeny (i.e., pp. 1-6 of the phylogeny handouts). Complete notes for this section will be posted on Monday.
+{% endcomment %} 
 
 I have posted some [practice materials](practice.html)
-{% endcomment %} 
+
+{% comment %} 
 
 _Versions are the same except for question ordering; you don't need to study other versions._
 
@@ -21,3 +26,4 @@ _Versions are the same except for question ordering; you don't need to study oth
 * [Version 4](/tests/midterm1.4.test.pdf)
 	* [Key](/tests/midterm1.4.key.pdf)
 
+{% endcomment %} 

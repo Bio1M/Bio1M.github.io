@@ -60,6 +60,7 @@ Sources += post.pl key.pl
 _posts:
 	$(mkdir)
 
+# http://localhost:4215/announce.html
 # announce.post: announce.md
 # Title is taken from slug (if it exists) or else from filename (usually announce, so use slug)
 Sources += announce.post ## Why?? 2021 Sep 10 (Fri)
