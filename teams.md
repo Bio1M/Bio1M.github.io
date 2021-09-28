@@ -9,6 +9,7 @@ To help things go more smoothly:
 
 * Please try to join a few minutes early so that the Teams lag can sort out by the time the lecture starts. You don't need to sit in front of your computer or anything.
 * The sometimes-social aspect of the lecture chat seems good to me, but please keep it to a minimum between 9:30 and 10:20 to save bandwidth for lecture-related topics.
+* The lecture chat is watched by a lot of people in real time; it is not a good place for questions related to tests or tutorials. Post these in appropriate channels outside the lecture, where we can easily find them later.
 * If your question is not addressed during lecture, it's a good idea to post it with a topic in channel chat (one level "outside" the lecture chat).
 
 Mic and camera:
