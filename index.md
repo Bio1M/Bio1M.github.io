@@ -42,9 +42,9 @@ _This page has links to all announcements and resources related to material cont
 {% endcomment %} 
 * [Introductory unit](intro.html)
 * [Evolution by natural selection](ns.html)
-{% comment %} 
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
+{% comment %} 
 * [Phylogeny and the history of life](phylogeny.html)
 * [Human evolution](humans.html)
 {% endcomment %} 
