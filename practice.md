@@ -9,14 +9,14 @@ title: Practice questions
 {% endcomment %} 
 
 * [2017 midterm 1](archive/2017_materials/midterm1.test.pdf)
-	* Answers posted one week before test
-{% comment %} 
 	* [Answers](archive/2017_materials/midterm1.key.pdf)
+{% comment %} 
+	* Answers posted one week before test
 {% endcomment %} 
 * [2018 midterm 1](materials/practice/18M1.test.pdf)
-	* Answers posted one week before test
-{% comment %} 
 	* [Answers](materials/practice/18M1.key.pdf)
+{% comment %} 
+	* Answers posted one week before test
 {% endcomment %} 
 
 {% comment %} 
