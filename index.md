@@ -60,6 +60,7 @@ HHE content units
 
 # Tests 
 
+* [General info](tests.html)
 * [Practice questions](practice.html)
 * [Midterm 1](midterm1.html)
 {% comment %} 
