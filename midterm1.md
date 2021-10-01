@@ -4,6 +4,7 @@ title: Midterm 1
 ---
 
 * Midterm 1 will be held Thu 7 October from 7:00-8:30 PM
+	* midterm will cover all lecture material through the end of S3 of Speciation (end of p5 on the handouts)
 	* For logistical information see [the outline on Avenue]( https://avenue.cllmcmaster.ca/d2l/le/content/412000/viewContent/3274724/View), or [contact the course administrator](mailto:bio1m03@mcmaster.ca)
 * Content will be finalized by Fri 1 October at [lunchtime](lunchtime.html).
 
