@@ -15,6 +15,8 @@ title: Practice questions
 {% endcomment %} 
 * [2018 midterm 1](materials/practice/18M1.test.pdf)
 	* [Answers](materials/practice/18M1.key.pdf)
+* [2019 midterm 1](materials/practice/19M1.test.pdf)
+	* [Answers](materials/practice/19M1.key.pdf)
 {% comment %} 
 	* Answers posted one week before test
 {% endcomment %} 
