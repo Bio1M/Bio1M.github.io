@@ -3,6 +3,8 @@ layout: page
 title: Practice questions
 ---
 
+Old midterms do not necessarily have the same coverage; this year has been particularly slow because of internet.
+
 {% comment %} 
 * [Additional practice for midterm 2](tests/practice2.test.pdf)
 	* [Answers](tests/practice2.key.pdf)
