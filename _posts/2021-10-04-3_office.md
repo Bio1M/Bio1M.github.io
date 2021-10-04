@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New unit
+title: Tuesday office hour
 slug: 3_office
 ---
 
