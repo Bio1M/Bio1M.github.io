@@ -8,7 +8,7 @@ title: Practice questions
 	* [Answers](tests/practice2.key.pdf)
 {% endcomment %} 
 
-* [2017 midterm 1](archive/2017_materials/midterm1.test.pdf)
+* [An old midterm](archive/2017_materials/midterm1.test.pdf): apparently some of these questions are from later in the term. I am not sure why it's called midterm1...pdf
 	* [Answers](archive/2017_materials/midterm1.key.pdf)
 {% comment %} 
 	* Answers posted one week before test
