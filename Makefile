@@ -12,9 +12,6 @@
 # http://Bio1M.github.io/announce.html
 # http://Bio1M.github.io/
 
-## This no longer logs you in!
-## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue
-
 Ignore += .jekyll-cache
 
 ######################################################################
