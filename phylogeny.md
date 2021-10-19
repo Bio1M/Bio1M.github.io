@@ -4,8 +4,8 @@ title: Phylogeny and the history of life
 ---
 
 * [Handouts (please print and bring to class)](/materials/phylogeny.handouts.pdf)
-  * [Complete notes (for reference only, no need to print)](/materials/phylogeny.complete.pdf)
 {% comment %} 
+  * [Complete notes (for reference only, no need to print)](/materials/phylogeny.complete.pdf)
 {% endcomment %} 
 
 ## Additional resources
@@ -14,6 +14,8 @@ title: Phylogeny and the history of life
 	* [answers](phylo_ans.html)
 {% comment %} 
 {% endcomment %} 
+
+* [Old and new trees](https://research.amnh.org/paleontology/perissodactyl/node/55)
 
 * [Vertebrate phylogeny](http://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/Vertebrata_cladogram2.png)([ucl.ac.uk](http://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/))
 	* [Character-based version](http://evolution.berkeley.edu/admin/media/2/85597_evo_resources_resource_image_251_original.gif) ([evolution.berkeley.edu](http://evolution.berkeley.edu/admin/media/2/85597_evo_resources_resource_image_251_original.gif))
@@ -24,7 +26,7 @@ title: Phylogeny and the history of life
 
 * [The bee who was fossilized with orchid pollen](https://www.nature.com/news/2007/070827/full/070827-4.html)
 
-[![Fossil bee carrying pollen](materials/bee.jpg)](http://www.nature.com/news/2007/070827/full/070827-4.html)
+[![Fossil bee carrying pollen](materials/images/bee.jpg)](http://www.nature.com/news/2007/070827/full/070827-4.html)
 
 * [Bipedal lizard movie](https://www.youtube.com/watch?v=XAo09yYOpCU)
 * [Jesus lizard movie](https://www.youtube.com/watch?v=45yabrnryXk)
