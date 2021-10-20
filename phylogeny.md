@@ -35,11 +35,9 @@ Below is probably examples I found to talk about non-monophyly and posted after
 * [Jesus lizard movie](https://www.youtube.com/watch?v=45yabrnryXk)
 {% endcomment %} 
 
-
 {% comment %} 
-Not sure what this was about; Berkeley is missing parallel cr
 * [Vertebrate tree](http://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/Vertebrata_cladogram2.png)([ucl.ac.uk](http://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/))
 	* [Character-based version](http://evolution.berkeley.edu/admin/media/2/85597_evo_resources_resource_image_251_original.gif) ([evolution.berkeley.edu](http://evolution.berkeley.edu/admin/media/2/85597_evo_resources_resource_image_251_original.gif))
  ([evolution.berkeley.
 * [Angiosperms](http://www.botany.wisc.edu/courses/botany_400/images/lectureImages/AngiospermAPGII.jpg) ([botany.wisc.edu](http://www.botany.wisc.edu/courses/botany_400/Lecture/Lect02AngioPhyl.html))
-
+{% endcomment %} 
