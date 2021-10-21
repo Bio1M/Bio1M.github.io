@@ -29,6 +29,8 @@ title: Phylogeny and the history of life
 * [Bipedal lizard movie](https://www.youtube.com/watch?v=XAo09yYOpCU)
 * [Jesus lizard movie](https://www.youtube.com/watch?v=45yabrnryXk)
 
+[Horse phylogeny from ancient DNA](https://www.science.org/content/article/ancient-dna-reveals-long-sought-homeland-modern-horses)
+
 {% comment %} 
 https://doi.org/10.1126%2Fscience.7538699 25 million year old bacteria
 
