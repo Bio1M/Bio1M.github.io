@@ -4,8 +4,8 @@ title: Human evolution
 ---
 
 * [Handouts (please print and bring to class)](/materials/humans.handouts.pdf)
-  * [Complete notes (for reference only, no need to print)](/materials/humans.complete.pdf) – note, these were shortened for time reasons. Material not covered will not be tested.
 {% comment %} 
+  * [Complete notes (for reference only, no need to print)](/materials/humans.complete.pdf) – note, these were shortened for time reasons. Material not covered will not be tested.
 {% endcomment %} 
 
 ## Additional resources
@@ -19,7 +19,7 @@ title: Human evolution
 
 * [A simple slide show about teeth](https://www.slideshare.net/SECBIO/teeth-28068645)
 
-* [The hot new dinosaur research](https://www.sciencedaily.com/releases/2018/04/180426130043.htm)
+* [New dinosaur research](https://www.sciencedaily.com/releases/2018/04/180426130043.htm)
 
 * [Leopard skull picture](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/SL_skull_4.JPG/1024px-SL_skull_4.JPG)
 
