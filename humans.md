@@ -4,8 +4,8 @@ title: Human evolution
 ---
 
 * [Handouts (please print and bring to class)](/materials/humans.handouts.pdf)
+  * [Complete notes (for reference only, no need to print)](/materials/humans.complete.pdf) – note, course material was shortened for time reasons. Slides marked as “not covered” will not be tested.
 {% comment %} 
-  * [Complete notes (for reference only, no need to print)](/materials/humans.complete.pdf) – note, these were shortened for time reasons. Material not covered will not be tested.
 {% endcomment %} 
 
 ## Additional resources
