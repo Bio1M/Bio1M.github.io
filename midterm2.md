@@ -14,24 +14,20 @@ The scope of the complete notes is identical to the scope of the handouts, excep
 There are some practice materials below. Note that:
 
 * some content will not be exactly the same; if there's something in an old test that I haven't covered, you will not be responsible for it
-* the content _not_ tagged JD in last year's midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
+* the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
 
-[Sample questions](materials/practice/old2.test.pdf)
-* [key](materials/practice/old2.key.pdf)
+[Sample questions](practice/old2.test.pdf)
+* [key](practice/old2.key.pdf)
 
-[Last year's midterm 2](materials/practice/18M2.test.pdf)
-* [key](materials/practice/18M2.key.pdf)
-
-There is also a [practice page](practice.html)
+[2018 midterm](practice/18M2.test.pdf)
+* [key](practice/18M2.key.pdf)
 
 {% comment %} 
 
+This is from 2018, but I later thought it was 2019. Other versions haphazardly ditched or moved 2021 Nov 08 (Mon)
+
 _Note: versions are the same except for ordering; you don't need to study other versions._
 
-* [Version 1](/tests/midterm2.1.test.pdf)
-	* [Key](/tests/midterm2.1.key.pdf)
-* [Version 2](/tests/midterm2.2.test.pdf)
-	* [Key](/tests/midterm2.2.key.pdf)
 * [Version 3](/tests/midterm2.3.test.pdf)
 	* [Key](/tests/midterm2.3.key.pdf)
 * [Version 4](/tests/midterm2.4.test.pdf)
