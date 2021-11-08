@@ -22,6 +22,9 @@ There are some practice materials below. Note that:
 [2018 midterm](practice/18M2.test.pdf)
 * [key](practice/18M2.key.pdf)
 
+[2019 midterm](practice/19M2.test.pdf)
+* [key](practice/19M2.key.pdf)
+
 {% comment %} 
 
 This is from 2018, but I later thought it was 2019. Other versions haphazardly ditched or moved 2021 Nov 08 (Mon)
