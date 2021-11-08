@@ -6,6 +6,8 @@ title: Practice questions
 Old midterms do not necessarily have the same coverage; this year has been particularly slow because of internet.
 
 {% comment %} 
+Deprecate this page; move practice stuff to midterm pages?
+Or vice verse; wth do I know??
 * [Additional practice for midterm 2](tests/practice2.test.pdf)
 	* [Answers](tests/practice2.key.pdf)
 {% endcomment %} 
