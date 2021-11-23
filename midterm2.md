@@ -3,6 +3,10 @@ layout: page
 title: Midterm 2
 ---
 
+{% comment %} 
+
+Move practice materials to /tests
+
 The Dushoff part of midterm 2 will be _cumulative_ but with more emphasis on not-yet-tested material. 
 
 It's often hard to classify questions, since so many themes overlap, but I would say that a bit more than half of my section of the test relates primarily to new material (since the last midterm).
@@ -15,6 +19,13 @@ There are some practice materials below. Note that:
 
 * some content will not be exactly the same; if there's something in an old test that I haven't covered, you will not be responsible for it
 * the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
+
+{% endcomment %} 
+
+[Midterm 2](tests/midterm2.test.pdf)
+* [Key](tests/midterm2.qkey.pdf)
+
+## Practice materials
 
 [Sample questions](practice/old2.test.pdf)
 * [key](practice/old2.key.pdf)

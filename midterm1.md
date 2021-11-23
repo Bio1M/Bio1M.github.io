@@ -4,6 +4,9 @@ title: Midterm 1
 ---
 
 {% comment %} 
+
+Move practice materials to /tests
+
 * Midterm 1 will be held Thu 7 October from 7:00-8:30 PM
 	* midterm will cover all lecture material through the end of S3 of Speciation (end of p5 on the [handouts](materials/speciation.handouts.pdf))
 	* [Dushoff test guidelines](tests.html)
