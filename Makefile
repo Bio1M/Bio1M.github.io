@@ -6,7 +6,7 @@
 # http://localhost:4215/announce.html
 
 # new announcement
-# ncw https://avenue.mcmaster.ca/ ##
+# https://avenue.mcmaster.ca/
 # https://teams.microsoft.com/_#/school/conversations/General?threadId=19:abqC9ao2ShWYbTbQeLP8RRHnyxcB4aNF9vLL9S4OUbA1@thread.tacv2&ctx=channel
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=412000
 # http://Bio1M.github.io/announce.html
