@@ -1,7 +1,5 @@
 ## This is Bio1M web
 
-# killall jekyll
-# make serve ## jekyll.log ##
 # http://localhost:4215/
 # http://localhost:4215/announce.html
 
@@ -11,8 +9,6 @@
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=412000
 # http://Bio1M.github.io/announce.html
 # http://Bio1M.github.io/
-
-Ignore += .jekyll-cache
 
 ######################################################################
 
@@ -37,9 +33,13 @@ current: target
 ######################################################################
 
 vim_session:
-	bash -cl "vmt index.md announce.md 2019_post.list jekyll.log"
+	bash -cl "vmt index.md announce.md"
 
 ##################################################################
+
+# killall jekyll
+## serve: jekyll.log
+Ignore += .jekyll-cache
 
 ## Content
 
@@ -63,7 +63,9 @@ _posts:
 # http://localhost:4215/announce.html
 # announce.post: announce.md
 # Title is taken from slug (if it exists) or else from filename (usually announce, so use slug)
-Sources += announce.post ## Why?? 2021 Sep 10 (Fri)
+
+## This is probably to stop auto-reposts from each machine
+Sources += announce.post
 %.post: %.md post.pl
 	$(MAKE) _posts
 	$(PUSH)
@@ -74,12 +76,13 @@ Ignore += *_post.list
 %_post.list:
 	ls $*_p*/* > $*_post.list ##
 
-## git mv _posts 2019_posts ##
-## git mv materials 2019_materials ##
+## Use last time you taught!
+## git mv _posts 2023_posts ##
+## git mv materials 2023_materials ##
 
 ## Do we need a material archive?
 ## Probably helpful, but would contain < half of the test material
-## make 2019_post.list ##
+## make 2023_post.list ##
 ## mkdir archive ##
 ## git mv 2018_posts/ archive ##
 
