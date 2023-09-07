@@ -8,7 +8,7 @@
 
 # Avenue
 
-# Main
+# Main (2021)
 ## https://avenue.cllmcmaster.ca/d2l/home/412000
 
 # announcements (list)
