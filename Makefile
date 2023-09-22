@@ -1,5 +1,6 @@
 ## This is Bio1M web
 ## Am I dropping it? 2023 Sep 03 (Sun)
+## Mostly dropped for this year; sharing old midterms here, though.
 
 # http://localhost:4215/
 # http://localhost:4215/announce.html
