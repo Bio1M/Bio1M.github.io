@@ -5,6 +5,9 @@
 # http://localhost:4215/
 # http://localhost:4215/announce.html
 
+
+## https://bio1m.github.io/
+
 ######################################################################
 
 # Avenue
@@ -40,7 +43,7 @@ Ignore += .jekyll-cache
 
 # index.md
 
-Sources = Makefile
+Sources = Makefile README.md
 
 Sources += $(wildcard *.md) updates.html
 
