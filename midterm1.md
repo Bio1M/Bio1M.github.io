@@ -28,6 +28,6 @@ All versions have fundamentally the same content. MCs are scrambled, and SAs som
 	* [Key](/tests/2023/midterm1.3.key.pdf)
 * [Version 4](/tests/2023/midterm1.4.test.pdf)
 	* [Key](/tests/2023/midterm1.4.key.pdf)
-* [Version 5](/tests/2023/midterm1.4.test.pdf)
-	* [Key](/tests/2023/midterm1.4.key.pdf)
+* [Version 5](/tests/2023/midterm1.5.test.pdf)
+	* [Key](/tests/2023/midterm1.5.key.pdf)
 
