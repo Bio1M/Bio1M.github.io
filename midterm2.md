@@ -21,14 +21,14 @@ There are some practice materials below. Note that:
 * the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
 
 [Midterm 2](tests/midterm2.test.pdf)
-* [Key](tests/midterm2.qkey.pdf)
+git mv tests/midterm2.qkey.pdf practice/21M2.key.pdf ##
 
 {% endcomment %} 
 
 ## Practice materials
 
-[2020 midterm](practice/20M2.test.pdf)
-* [key](practice/20M2.key.pdf)
+[2021 midterm](practice/21M2.test.pdf)
+* [key](practice/21M2.key.pdf)
 
 [2019 midterm](practice/19M2.test.pdf)
 * [key](practice/19M2.key.pdf)
