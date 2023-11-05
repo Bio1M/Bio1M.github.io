@@ -19,23 +19,22 @@ There are some practice materials below. Note that:
 {% comment %} 
 
 [Midterm 2](tests/midterm2.test.pdf)
-git mv tests/midterm2.qkey.pdf practice/21M2.key.pdf ##
 
 {% endcomment %} 
 
 ## Practice materials
 
-[2021 midterm](practice/21M2.test.pdf)
-* [key](practice/21M2.key.pdf)
+[2021 midterm](tests/21M2.test.pdf)
+* [key](tests/21M2.key.pdf)
 
 [2020 midterm](tests/20M2.test.pdf)
 * [key](tests/20M2.key.pdf)
 
-[2019 midterm](practice/19M2.test.pdf)
-* [key](practice/19M2.key.pdf)
+[2019 midterm](tests/19M2.test.pdf)
+* [key](tests/19M2.key.pdf)
 
-[2018 midterm](practice/18M2.test.pdf)
-* [key](practice/18M2.key.pdf)
+[2018 midterm](tests/18M2.test.pdf)
+* [key](tests/18M2.key.pdf)
 
 [2017 midterm](tests/17M2.test.pdf)
 * [key](tests/17M2.key.pdf)
