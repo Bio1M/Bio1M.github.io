@@ -29,6 +29,8 @@ current: target
 
 ######################################################################
 
+## Trying to track which tests are which in notes.md
+
 vim_session:
 	bash -cl "vmt notes.md index.md announce.md"
 

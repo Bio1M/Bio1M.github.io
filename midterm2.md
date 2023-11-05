@@ -20,31 +20,21 @@ There are some practice materials below. Note that:
 * some content will not be exactly the same; if there's something in an old test that I haven't covered, you will not be responsible for it
 * the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
 
-{% endcomment %} 
-
 [Midterm 2](tests/midterm2.test.pdf)
 * [Key](tests/midterm2.qkey.pdf)
 
+{% endcomment %} 
+
 ## Practice materials
 
-[Sample questions](practice/old2.test.pdf)
-* [key](practice/old2.key.pdf)
-
-[2018 midterm](practice/18M2.test.pdf)
-* [key](practice/18M2.key.pdf)
+[2020 midterm](practice/20M2.test.pdf)
+* [key](practice/20M2.key.pdf)
 
 [2019 midterm](practice/19M2.test.pdf)
 * [key](practice/19M2.key.pdf)
 
-{% comment %} 
+[2018 midterm](practice/18M2.test.pdf)
+* [key](practice/18M2.key.pdf)
 
-This is from 2018, but I later thought it was 2019. Other versions haphazardly ditched or moved 2021 Nov 08 (Mon)
-
-_Note: versions are the same except for ordering; you don't need to study other versions._
-
-* [Version 3](/tests/midterm2.3.test.pdf)
-	* [Key](/tests/midterm2.3.key.pdf)
-* [Version 4](/tests/midterm2.4.test.pdf)
-	* [Key](/tests/midterm2.4.key.pdf)
-
-{% endcomment %} 
+[2017 midterm](tests/17M2.test.pdf)
+* [key](tests/17M2.key.pdf)
