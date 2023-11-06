@@ -3,7 +3,7 @@ layout: page
 title: Midterm 2
 ---
 
-The Dushoff part of midterm 2 will be _primarily_ emphasize material from the phylogeny and origins units, but may include related concepts introduced earlier. 
+The Dushoff part of midterm 2 will _primarily_ emphasize material from the phylogeny and origins units, but may include related concepts introduced earlier. 
 
 {% comment %} 
 It's often hard to classify questions, since so many themes overlap, but I would say that a bit more than half of my section of the test relates primarily to new material (since the last midterm).
