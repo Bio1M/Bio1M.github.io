@@ -26,21 +26,12 @@ All versions have fundamentally the same content. MCs are scrambled, and SAs som
 * [Version 5](/tests/2023/midterm2c.5.test.pdf)
 	* [Key](/tests/2023/midterm2c.5.key.pdf)
 
-
 ## Practice materials
 
 _Please note_ 
 
 * some content will not be exactly the same; if there's something in an old test that I haven't covered, you will not be responsible for it
 * the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
-
-{% comment %} 
-
-[Midterm 2](tests/midterm2.test.pdf)
-
-{% endcomment %} 
-
-## Practice materials
 
 [2022 Dushoff sabbatical]
 
