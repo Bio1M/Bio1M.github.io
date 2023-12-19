@@ -27,10 +27,12 @@ I think it would be good to move everything to practice, be allowed to delete ol
 * [2021 midterm 1](tests/midterm1.4.test.pdf)
 	* [Answers](tests/midterm1.4.key.pdf)
 
-* [Practice final](tests/d2018.qkey.pdf)
+* [Practice final 1](tests/d2018.qkey.pdf)
 	* [key](tests/d2018.qtest.pdf)
-* [Practice final](practice/d2019.html)
+* [Practice final 2](practice/d2019.html)
 	* [key](tests/d2019.qkey.pdf)
+* [Practice final 3](tests/2021/final.qtest.pdf)
+	* [key](tests/2021/final.qtest.pdf)
 
 * [Additional practice](practice/practice2.test.pdf)
 	* [Answers](practice/practice2.key.pdf)
