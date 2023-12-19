@@ -32,7 +32,7 @@ I think it would be good to move everything to practice, be allowed to delete ol
 * [Practice final 2](practice/d2019.html)
 	* [key](tests/d2019.qkey.pdf)
 * [Practice final 3](tests/2021/final.qtest.pdf)
-	* [key](tests/2021/final.qtest.pdf)
+	* [key](tests/2021/final.qkey.pdf)
 
 * [Additional practice](practice/practice2.test.pdf)
 	* [Answers](practice/practice2.key.pdf)
