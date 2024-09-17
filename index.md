@@ -3,6 +3,8 @@ layout: page
 title: Main page
 ---
 
+{% comment %} 
+
 _This page has links to all announcements and resources related to material controlled by Dushoff, available even if you have trouble with Avenue access._
 
 # Updates (newest at top)
@@ -18,9 +20,9 @@ _This page has links to all announcements and resources related to material cont
 </ul>
 
 # [Older updates](updates.html)
-{% comment %} 
 {% endcomment %} 
 
+{% comment %} 
 # Course information
 
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/412000)
@@ -30,23 +32,20 @@ _This page has links to all announcements and resources related to material cont
 * [Unofficial textbook notes](books.html)
 * [Thoughts on Teams lectures](teams.html)
 
-{% comment %} 
 * [Classroom announcements policy](/announcements.html)
 * [Course outline](/materials/outline.pdf)
 {% endcomment %} 
 
+{% comment %} 
 # Course content
 
-{% comment %} 
 * [Course co-ordinator's introduction](materials/outline.pdf)
-{% endcomment %} 
 * [Introductory unit](intro.html)
 * [Evolution by natural selection](ns.html)
 * [Evolutionary processes](processes.html)
 * [Speciation](speciation.html)
 * [Phylogeny and the history of life](phylogeny.html)
 * [Human evolution](humans.html)
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -58,13 +57,14 @@ HHE content units
 * [Hominins](homo.html)
 {% endcomment %} 
 
+* [Practice questions](practice.html)
+
+{% comment %} 
 # Tests 
 
 * [General info](tests.html)
-* [Practice questions](practice.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 
-{% comment %} 
 * [Final exam](final.html) 
 {% endcomment %} 
