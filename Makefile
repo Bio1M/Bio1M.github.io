@@ -36,7 +36,7 @@ vim_session:
 
 ##################################################################
 
-# killall jekyll
+# killall jekyll ##
 ## serve: jekyll.log
 Ignore += .jekyll-cache
 
