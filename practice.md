@@ -3,6 +3,8 @@ layout: page
 title: Practice questions
 ---
 
+You are advised to spend some time looking through each main page before accessing the “answers” version.
+
 {% comment %} 
 Old midterms do not necessarily have the same coverage; this year has been particularly slow because of internet.
 
