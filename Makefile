@@ -142,6 +142,9 @@ Sources += $(wildcard Gemfile.*)
 Gemfile_%.set: Gemfile.%
 	/bin/ln -fs $< Gemfile
 
+jinstall: Gemfile
+	sudo bundle install
+
 ######################################################################
 
 Sources += $(wildcard materials/*)
