@@ -6,6 +6,7 @@
 # http://localhost:4215/announce.html
 
 ## https://bio1m.github.io/practice
+## https://bio1m.github.io/midterm1
 
 ######################################################################
 

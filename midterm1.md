@@ -20,14 +20,14 @@ Move practice materials to /tests
 
 All versions have fundamentally the same content. MCs are scrambled, and SAs sometimes use different numbers (or other trivial changes to discourage copying). You only need to look at your version.
 
-* [Version 1](tests/2023/midterm1.1.test.pdf)
-	* [Key](tests/2023/midterm1.1.key.pdf)
-* [Version 2](/tests/2023/midterm1.2.test.pdf)
-	* [Key](/tests/2023/midterm1.2.key.pdf)
-* [Version 3](/tests/2023/midterm1.3.test.pdf)
-	* [Key](/tests/2023/midterm1.3.key.pdf)
-* [Version 4](/tests/2023/midterm1.4.test.pdf)
-	* [Key](/tests/2023/midterm1.4.key.pdf)
-* [Version 5](/tests/2023/midterm1.5.test.pdf)
-	* [Key](/tests/2023/midterm1.5.key.pdf)
+* [Version 1](tests/current/midterm1.1.test.pdf)
+	* [Key](tests/current/midterm1.1.key.pdf)
+* [Version 2](tests/current/midterm1.2.test.pdf)
+	* [Key](tests/current/midterm1.2.key.pdf)
+* [Version 3](tests/current/midterm1.3.test.pdf)
+	* [Key](tests/current/midterm1.3.key.pdf)
+* [Version 4](tests/current/midterm1.4.test.pdf)
+	* [Key](tests/current/midterm1.4.key.pdf)
+* [Version 5](tests/current/midterm1.5.test.pdf)
+	* [Key](tests/current/midterm1.5.key.pdf)
 
