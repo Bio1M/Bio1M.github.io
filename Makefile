@@ -153,7 +153,7 @@ commit.time: materials
 materials:
 	mkdir $@
 
-Sources += $(wildcard tests/*)
+Sources += $(wildcard tests/* wildcard tests/*/*)
 commit.time: tests
 tests:
 	mkdir $@
