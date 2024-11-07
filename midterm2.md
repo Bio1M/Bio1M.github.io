@@ -36,8 +36,8 @@ _Please note_
 * some years have focused a bit more on earlier units than this year will
 * the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
 
-* [2023](tests/2023/midterm2c.1.test.pdf)
-	* [Key](tests/2023/midterm2c.1.key.pdf)
+[2023](tests/2023/midterm2c.1.test.pdf)
+* [Key](tests/2023/midterm2c.1.key.pdf)
 
 [2022 Dushoff sabbatical]
 
