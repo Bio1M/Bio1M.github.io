@@ -11,12 +11,12 @@ It's often hard to classify questions, since so many themes overlap, but I would
 My section of the test covers material in the complete notes, as well as related conceptual ideas from the lectures and textbooks. 
 {% endcomment %} 
 
+{% comment %} 
+
 ## Midterm 2
 
 All versions have fundamentally the same content. MCs are scrambled, and SAs sometimes use different numbers (or other trivial changes to discourage copying). You only need to look at your version.
 
-* [Version 1](tests/2023/midterm2c.1.test.pdf)
-	* [Key](tests/2023/midterm2c.1.key.pdf)
 * [Version 2](/tests/2023/midterm2c.2.test.pdf)
 	* [Key](/tests/2023/midterm2c.2.key.pdf)
 * [Version 3](/tests/2023/midterm2c.3.test.pdf)
@@ -26,12 +26,18 @@ All versions have fundamentally the same content. MCs are scrambled, and SAs som
 * [Version 5](/tests/2023/midterm2c.5.test.pdf)
 	* [Key](/tests/2023/midterm2c.5.key.pdf)
 
+{% endcomment %} 
+
 ## Practice materials
 
 _Please note_ 
 
 * some content will not be exactly the same; if there's something in an old test that I haven't covered, you will not be responsible for it
+* some years have focused a bit more on earlier units than this year will
 * the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
+
+* [2023](tests/2023/midterm2c.1.test.pdf)
+	* [Key](tests/2023/midterm2c.1.key.pdf)
 
 [2022 Dushoff sabbatical]
 
@@ -47,5 +53,6 @@ _Please note_
 [2018 midterm](tests/18M2.test.pdf)
 * [key](tests/18M2.key.pdf)
 
+{% comment %} 
 [2017 midterm](tests/17M2.test.pdf)
 * [key](tests/17M2.key.pdf)
