@@ -14,11 +14,16 @@ Or vice verse; wth do I know??
 I think it would be good to move everything to practice, be allowed to delete old materials, and make here the center for review materials (test pages for test logistics and this year's tests).
 {% endcomment %} 
 
-## Old tests and practice tests
+## Midterm 1
 
 {% comment %} 
 	The tab works like a blockquoty thing and seems good.
 	* Answers posted one week before test
+{% endcomment %} 
+
+* some content will not be exactly the same; if there's something in an old test that I haven't covered, you will not be responsible for it
+{% comment %} 
+* some years have focused a bit more on earlier units than this year will
 {% endcomment %} 
 
 * [2018 midterm 1](practice/18M1.test.pdf)
@@ -30,7 +35,36 @@ I think it would be good to move everything to practice, be allowed to delete ol
 * [2023 midterm1 1](tests/2023/midterm1.1.test.pdf)
 	* [Key](tests/2023/midterm1.1.key.pdf)
 
+## Midterm 2
+
+_Please note_ 
+
+* the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
+
+[2023](tests/2023/midterm2c.1.test.pdf)
+* [key](tests/2023/midterm2c.1.key.pdf)
+
+[2021 midterm](tests/21M2.test.pdf)
+* [key](tests/21M2.key.pdf)
+
+[2020 midterm](tests/20M2.test.pdf)
+* [key](tests/20M2.key.pdf)
+
+[2019 midterm](tests/19M2.test.pdf)
+* [key](tests/19M2.key.pdf)
+
+[2018 midterm](tests/18M2.test.pdf)
+* [key](tests/18M2.key.pdf)
+
 {% comment %} 
+[2017 midterm](tests/17M2.test.pdf)
+* [key](tests/17M2.key.pdf)
+{% endcomment %} 
+
+{% comment %} 
+
+## Final exam
+
 * [Practice final 1](tests/d2018.qkey.pdf)
 	* [key](tests/d2018.qtest.pdf)
 * [Practice final 2](practice/d2019.html)
@@ -53,9 +87,9 @@ I think it would be good to move everything to practice, be allowed to delete ol
 * [Speciation](speciation_ques.html)
 	* [Answers](speciation_ans.html)
 
-{% comment %} 
 * [Phylogeny and the history of life](phylo_ques.html)
 	* [Answers](phylo_ans.html)
 * [Human evolution](ape_ques.html)
 	* [Answers](ape_ans.html)
+{% comment %} 
 {% endcomment %} 

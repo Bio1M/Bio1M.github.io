@@ -3,10 +3,11 @@
 ## Mostly dropped for this year; sharing old midterms here, though.
 
 # http://localhost:4215/
-# http://localhost:4215/announce.html
+# http://localhost:4215/midterm2
 
 ## https://bio1m.github.io/practice
 ## https://bio1m.github.io/midterm1
+## https://bio1m.github.io/midterm2
 
 ######################################################################
 
@@ -153,7 +154,7 @@ commit.time: materials
 materials:
 	mkdir $@
 
-Sources += $(wildcard tests/*)
+Sources += $(wildcard tests/* wildcard tests/*/*)
 commit.time: tests
 tests:
 	mkdir $@
