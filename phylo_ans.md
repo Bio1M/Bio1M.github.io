@@ -17,18 +17,6 @@ E. No phylogenetic analysis can be done
 
 ![A tree with some primate species](materials/primates.png)
 
-__MC.__ Which of the groups of taxa identified on this tree is _not_ monophyletic?
-
-A. Self-important primates (SIPs)
-
-B. Hominids
-
-C. Chimpanzees
-
-* D. Apes
-
-E. Gorillas
-
 __MC.__ According to the figure above, which of the following groups is _not_ a clade?
 
 A. Hominids
