@@ -15,7 +15,7 @@ D. Either A or B
 
 E. No phylogenetic analysis can be done
 
-![A tree with some primate species](materials/primates.png)
+![A tree with some primate species](archive/2021_materials/primates.png)
 
 __MC.__ Which of the groups of taxa identified on this tree is _not_ monophyletic?
 
