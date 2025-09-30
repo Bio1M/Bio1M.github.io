@@ -34,6 +34,7 @@ I think it would be good to move everything to practice, be allowed to delete ol
 	* [Answers](tests/2021/midterm1.4.key.pdf)
 * [2023 midterm1 1](tests/2023/midterm1.1.test.pdf)
 	* [Key](tests/2023/midterm1.1.key.pdf)
+{% comment %} 
 
 ## Midterm 2
 
@@ -55,8 +56,10 @@ _Please note_
 
 [2018 midterm](tests/18M2.test.pdf)
 * [key](tests/18M2.key.pdf)
+{% endcomment %} 
 
 {% comment %} 
+This was commented out separately, but I don't know why. 2025 Sep 29 (Mon)
 [2017 midterm](tests/17M2.test.pdf)
 * [key](tests/17M2.key.pdf)
 {% endcomment %} 
@@ -86,10 +89,10 @@ _Please note_
 	* [Answers](process_ans.html)
 * [Speciation](speciation_ques.html)
 	* [Answers](speciation_ans.html)
+{% comment %} 
 
 * [Phylogeny and the history of life](phylo_ques.html)
 	* [Answers](phylo_ans.html)
 * [Human evolution](ape_ques.html)
 	* [Answers](ape_ans.html)
-{% comment %} 
 {% endcomment %} 

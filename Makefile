@@ -2,7 +2,7 @@
 ## Am I dropping it? 2023 Sep 03 (Sun)
 ## Mostly dropped for this year; sharing old midterms here, though.
 
-# http://localhost:4215/
+# http://localhost:4215/practice
 # http://localhost:4215/midterm2
 
 ## https://bio1m.github.io/practice
