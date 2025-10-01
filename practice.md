@@ -21,7 +21,7 @@ I think it would be good to move everything to practice, be allowed to delete ol
 	* Answers posted one week before test
 {% endcomment %} 
 
-* some content will not be exactly the same; if there's something in an old test that I haven't covered, you will not be responsible for it
+Some content will not be exactly the same; if there's something in an old test that I haven't covered, you will not be responsible for it
 {% comment %} 
 * some years have focused a bit more on earlier units than this year will
 {% endcomment %} 
@@ -32,8 +32,8 @@ I think it would be good to move everything to practice, be allowed to delete ol
 	* [Answers](practice/19M1.key.pdf)
 * [2021 midterm 1](tests/2021/midterm1.4.test.pdf)
 	* [Answers](tests/2021/midterm1.4.key.pdf)
-* [2023 midterm1 1](tests/2023/midterm1.1.test.pdf)
-	* [Key](tests/2023/midterm1.1.key.pdf)
+* [2023 midterm 1](tests/2023/midterm1.1.test.pdf)
+	* [Answers](tests/2023/midterm1.1.key.pdf)
 {% comment %} 
 
 ## Midterm 2

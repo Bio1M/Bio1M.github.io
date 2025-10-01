@@ -1,8 +1,12 @@
 ## This is Bio1M web
 ## Am I dropping it? 2023 Sep 03 (Sun)
-## Mostly dropped for this year; sharing old midterms here, though.
+## Used to be the main site, with Avenue as backup
+## Since 2023 it's used as a supplement, for practice material and JD policies
 
 # http://localhost:4215/practice
+
+## midterm pages for _current_ midterms
+# http://localhost:4215/midterm1
 # http://localhost:4215/midterm2
 
 ## https://bio1m.github.io/practice
