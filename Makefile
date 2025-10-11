@@ -3,7 +3,7 @@
 ## Used to be the main site, with Avenue as backup
 ## Since 2023 it's used as a supplement, for practice material and JD policies
 
-# http://localhost:4215/practice
+# http://localhost:4215/
 
 ## midterm pages for _current_ midterms
 # http://localhost:4215/midterm1
