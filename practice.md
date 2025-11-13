@@ -34,13 +34,15 @@ Some content will not be exactly the same; if there's something in an old test t
 	* [Answers](tests/2021/midterm1.4.key.pdf)
 * [2023 midterm 1](tests/2023/midterm1.1.test.pdf)
 	* [Answers](tests/2023/midterm1.1.key.pdf)
-{% comment %} 
 
 ## Midterm 2
 
 _Please note_ 
 
 * the content _not_ tagged JD in the 2018 midterm is _not_ from Dr. Kolasa, and may not resemble Dr. Kolasa's style of questioning; you should focus more on the JD questions.
+
+[2024](tests/2024/midterm2.2.test.pdf)
+* [key](tests/2024/midterm2.2.key.pdf)
 
 [2023](tests/2023/midterm2c.1.test.pdf)
 * [key](tests/2023/midterm2c.1.key.pdf)
@@ -56,6 +58,8 @@ _Please note_
 
 [2018 midterm](tests/18M2.test.pdf)
 * [key](tests/18M2.key.pdf)
+
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -89,10 +93,10 @@ This was commented out separately, but I don't know why. 2025 Sep 29 (Mon)
 	* [Answers](process_ans.html)
 * [Speciation](speciation_ques.html)
 	* [Answers](speciation_ans.html)
-{% comment %} 
 
 * [Phylogeny and the history of life](phylo_ques.html)
 	* [Answers](phylo_ans.html)
 * [Human evolution](ape_ques.html)
 	* [Answers](ape_ans.html)
+{% comment %} 
 {% endcomment %} 
