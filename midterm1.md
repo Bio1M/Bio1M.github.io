@@ -18,7 +18,7 @@ Move practice materials to /tests
 * [practice materials](practice.html)
 {% endcomment %} 
 
-All versions have fundamentally the same content. MCs are scrambled, and SAs sometimes use different numbers (or other trivial changes to discourage copying). You only need to look at your version.
+All versions have fundamentally the same content. MCs are scrambled, and SAs sometimes use different numbers (or other trivial changes) to discourage copying. You only need to look at your version.
 
 * [Version 1](tests/current/midterm1.1.test.pdf)
 	* [Key](tests/current/midterm1.1.key.pdf)

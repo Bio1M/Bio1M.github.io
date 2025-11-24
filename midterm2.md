@@ -13,7 +13,7 @@ My section of the test covers material in the complete notes, as well as related
 
 ## Midterm 2
 
-All versions have fundamentally the same content. MCs are scrambled, and SAs sometimes use different numbers (or other trivial changes to discourage copying). You only need to look at your version.
+All versions have fundamentally the same content. MCs are scrambled, and SAs sometimes use different numbers (or other trivial changes) to discourage copying. You only need to look at your version.
 
 * [Version 1](tests/current/midterm2.1.test.pdf)
 	* [Key](tests/current/midterm2.1.key.pdf)
