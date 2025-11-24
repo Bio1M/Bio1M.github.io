@@ -6,6 +6,9 @@ title: Practice questions
 You are advised to spend some time looking through each main page before accessing the “answers” version.
 
 {% comment %} 
+
+Don't use dtarget symlinks!!
+
 2022 not taught by me, don't look for it
 
 Move all the practice stuff to practice (keep it separate from yearly exam pages); compare and (when possible) improve, using archaeology. Eventually aim to get rid of older folders in tests/
