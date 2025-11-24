@@ -159,6 +159,7 @@ materials:
 	mkdir $@
 
 Sources += $(wildcard tests/* wildcard tests/*/*)
+Sources += $(wildcard practice/*.pdf)
 commit.time: tests
 tests:
 	mkdir $@

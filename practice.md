@@ -6,6 +6,10 @@ title: Practice questions
 You are advised to spend some time looking through each main page before accessing the “answers” version.
 
 {% comment %} 
+2022 not taught by me, don't look for it
+
+Move all the practice stuff to practice (keep it separate from yearly exam pages); compare and (when possible) improve, using archaeology. Eventually aim to get rid of older folders in tests/
+
 Old midterms do not necessarily have the same coverage; this year has been particularly slow because of internet.
 
 Note that there is old stuff old materials/, in practice/ and in tests/
@@ -69,6 +73,7 @@ This was commented out separately, but I don't know why. 2025 Sep 29 (Mon)
 {% endcomment %} 
 
 {% comment %} 
+{% endcomment %} 
 
 ## Final exam
 
@@ -78,10 +83,11 @@ This was commented out separately, but I don't know why. 2025 Sep 29 (Mon)
 	* [key](tests/d2019.qkey.pdf)
 * [Practice final 3](tests/2021/final.qtest.pdf)
 	* [key](tests/2021/final.qkey.pdf)
+* [Practice final 4](practice/24F.test.pdf)
+	* [key](practice/24F.key.pdf)
 
 * [Additional practice](practice/practice2.test.pdf)
 	* [Answers](practice/practice2.key.pdf)
-{% endcomment %} 
 
 ## Sections
 
